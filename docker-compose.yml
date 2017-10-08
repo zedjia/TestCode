@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  consoleclientapp:
+    image: consoleclientapp
+    build:
+      context: .\ConsoleClientApp
+      dockerfile: Dockerfile

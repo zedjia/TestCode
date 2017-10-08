@@ -1,0 +1,1604 @@
+[2017-10-08 08:24:17.318 GMT     1	INFO   	100000	AssemblyLoader.Client	]	Recursively searching for assemblies in C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug...	
+[2017-10-08 08:24:17.361 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\GrainImps.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.362 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\GrainInterfaces.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.647 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.765 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.CodeAnalysis.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.766 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.770 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.770 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.Win32.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.789 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Newtonsoft.Json.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.789 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Orleans.dll
+	* Assembly filename is excluded.	
+[2017-10-08 08:24:17.790 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\OrleansCodeGenerator.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.800 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\SuperSocket.Common.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.802 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\SuperSocket.ProtoBase.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.810 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\SuperSocket.SocketBase.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.810 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.AppContext.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.824 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Collections.Immutable.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.824 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Console.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.826 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.826 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.827 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Diagnostics.StackTrace.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.827 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Globalization.Calendars.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.829 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.IO.Compression.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.829 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.IO.Compression.ZipFile.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.829 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.IO.FileSystem.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.830 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.IO.FileSystem.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.836 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Net.Http.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.837 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Net.Sockets.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.863 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Reflection.Metadata.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.864 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.864 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Security.Cryptography.Algorithms.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.864 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Security.Cryptography.Encoding.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.864 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Security.Cryptography.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.864 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.866 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Text.Encoding.CodePages.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.866 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Threading.Thread.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.868 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.ValueTuple.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.868 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Xml.ReaderWriter.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.869 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Xml.XmlDocument.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.869 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Xml.XPath.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.869 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Xml.XPath.XDocument.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.884 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Z.Lib.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 08:24:17.884 GMT     1	INFO   	100000	AssemblyLoader.Client	]	Loading assembly C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\OrleansProviders.dll...	
+[2017-10-08 08:24:17.910 GMT     1	INFO   	100000	AssemblyLoader.Client	]	1 assemblies loaded.	
+[2017-10-08 08:24:18.017 GMT     1	INFO   	100313	OutsideRuntimeClient	]	---------- Initializing OutsideRuntimeClient on zed-PC at 192.168.2.241 Client Id = *cli/6f57de80 ----------	
+[2017-10-08 08:24:18.027 GMT     1	INFO   	100314	OutsideRuntimeClient	]	---------- Starting OutsideRuntimeClient with runtime Version='1.5.1.0 (Release).' in AppDomain=<AppDomain.Id=1, AppDomain.FriendlyName=WindowsFormsClient.exe> Config= 
+ Platform version info:
+   Orleans version: 1.5.1.0 (Release).
+   .NET version: 4.0.30319.42000
+   OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+   App config file: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.Config
+   GC Type=Server GCLatencyMode=Interactive
+   Host: zed-PC
+   Processor Count: 4
+Client Configuration:
+   Config File Name: 
+   Start time: 2017-10-08 08:24:18.021 GMT
+   Gateway Provider: Config
+   Gateways[1]:
+      127.0.0.1:30000
+   Preferred Gateway Index: -1
+   GatewayListRefreshPeriod: 00:01:00
+   Preferred Address Family: InterNetwork
+   DNS Host Name: zed-PC
+   Client Name: Client
+   Tracing: 
+     Default Trace Level: Info
+     TraceLevelOverrides: None
+     Trace to Console: True
+     Trace File Name: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Client-2017-10-08-08.24.12.091Z.log
+     LargeMessageWarningThreshold: 85000
+     PropagateActivityId: False
+     BulkMessageLimit: 5
+   Statistics: 
+     MetricsTableWriteInterval: 00:00:30
+     PerfCounterWriteInterval: -00:00:00.0010000
+     LogWriteInterval: 00:05:00
+     WriteLogStatisticsToTable: True
+     StatisticsCollectionLevel: Info
+   Messaging:
+       Response timeout: 00:00:30
+       Maximum resend count: 0
+       Resend On Timeout: False
+       Maximum Socket Age: 10675199.02:48:05.4775807
+       Drop Expired Messages: True
+       Client Sender Buckets: 8192
+       Buffer Pool Buffer Size: 4096
+       Buffer Pool Max Size: 10000
+       Buffer Pool Preallocation Size: 250
+       Fallback serializer: 
+   .NET: 
+       .NET thread pool sizes - Min: Worker Threads=4 Completion Port Threads=4
+       .NET thread pool sizes - Max: Worker Threads=2047 Completion Port Threads=1000
+   Providers:
+       No providers configured.
+	
+[2017-10-08 08:24:18.140 GMT     7	INFO   	101309	Messaging.GatewayManager	]	Found 1 knownGateways from Gateway listProvider [gwy.tcp://127.0.0.1:30000/0]	
+[2017-10-08 08:24:18.178 GMT     7	INFO   	100908	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Connected to gateway at address gwy.tcp://127.0.0.1:30000/0 on trial 0.	
+[2017-10-08 08:24:18.180 GMT    10	INFO   	100000	Messaging.GatewayClientReceiver/gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Starting AsyncAgent Messaging.GatewayClientReceiver/gwy.tcp://127.0.0.1:30000/0 on managed thread 10	
+[2017-10-08 08:24:18.180 GMT     9	INFO   	100000	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Starting AsyncAgent Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0 on managed thread 9	
+[2017-10-08 08:24:18.281 GMT     4	INFO   	100929	OutsideRuntimeClient	192.168.2.241:0]	---------- Started OutsideRuntimeClient with Global Client ID: C192.168.2.241:0:-245147058*cli/6f57de80@f351bbb4, client GUID ID: *cli/6f57de80	
+[2017-10-08 08:25:18.158 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:24:18	
+[2017-10-08 08:26:18.168 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:25:18	
+[2017-10-08 08:27:18.182 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:26:18	
+[2017-10-08 08:28:18.194 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:27:18	
+[2017-10-08 08:29:18.209 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:28:18	
+[2017-10-08 08:29:18.342 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=5522
+Messaging.Received.Bytes.Total.Current=8235
+Messaging.Received.Direction.OneWay.Current=18
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=7
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=25
+Messaging.Received.Messages.Total.Current=25
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=23, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1350
+Messaging.Sent.Bytes.Total.Current=1676
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=7
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=7
+Messaging.Sent.Messages.Total.Current=7
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=5, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=6.437
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=1, gen1=0, gen2=0
+Runtime.GC.GenSizesKb=gen0=47860.63, gen1=1247.17, gen2=0.05
+Runtime.GC.LargeObjectHeapSizeKb=3494.945
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=4.949
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=49584
+Runtime.Memory.AvailableMemoryMb=1512
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=217
+Serialization.BufferPool.CheckedInBuffers.Current=290
+Serialization.BufferPool.CheckedOutBuffers.Current=323
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=33
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=33
+	
+[2017-10-08 08:30:18.221 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:29:18	
+[2017-10-08 08:31:18.236 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:30:18	
+[2017-10-08 08:32:18.248 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:31:18	
+[2017-10-08 08:33:18.263 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:32:18	
+[2017-10-08 08:34:18.276 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:33:18	
+[2017-10-08 08:34:18.379 GMT     5	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=5522
+Messaging.Received.Bytes.Total.Current=8235
+Messaging.Received.Direction.OneWay.Current=18
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=7
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=25
+Messaging.Received.Messages.Total.Current=25
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=23, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1350
+Messaging.Sent.Bytes.Total.Current=1676
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=7
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=7
+Messaging.Sent.Messages.Total.Current=7
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=5, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.090
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=173.353
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=13363
+Runtime.Memory.AvailableMemoryMb=1579
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=217
+Serialization.BufferPool.CheckedInBuffers.Current=290
+Serialization.BufferPool.CheckedOutBuffers.Current=323
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=33
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=33
+	
+[2017-10-08 08:35:18.289 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:34:18	
+[2017-10-08 08:36:18.303 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:35:18	
+[2017-10-08 08:37:18.317 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:36:18	
+[2017-10-08 08:38:18.331 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:37:18	
+[2017-10-08 08:39:18.343 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:38:18	
+[2017-10-08 08:39:18.408 GMT     5	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=5522
+Messaging.Received.Bytes.Total.Current=8235
+Messaging.Received.Direction.OneWay.Current=18
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=7
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=25
+Messaging.Received.Messages.Total.Current=25
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=23, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1350
+Messaging.Sent.Bytes.Total.Current=1676
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=7
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=7
+Messaging.Sent.Messages.Total.Current=7
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=5, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=6.621
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=18233
+Runtime.Memory.AvailableMemoryMb=1675
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=217
+Serialization.BufferPool.CheckedInBuffers.Current=290
+Serialization.BufferPool.CheckedOutBuffers.Current=323
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=33
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=33
+	
+[2017-10-08 08:40:18.358 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:39:18	
+[2017-10-08 08:41:18.371 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:40:18	
+[2017-10-08 08:42:18.385 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:41:18	
+[2017-10-08 08:43:18.398 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:42:18	
+[2017-10-08 08:44:18.412 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:43:18	
+[2017-10-08 08:44:18.445 GMT     5	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=5522
+Messaging.Received.Bytes.Total.Current=8235
+Messaging.Received.Direction.OneWay.Current=18
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=7
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=25
+Messaging.Received.Messages.Total.Current=25
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=23, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1350
+Messaging.Sent.Bytes.Total.Current=1676
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=7
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=7
+Messaging.Sent.Messages.Total.Current=7
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=5, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=6.621
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=23118
+Runtime.Memory.AvailableMemoryMb=1680
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=217
+Serialization.BufferPool.CheckedInBuffers.Current=290
+Serialization.BufferPool.CheckedOutBuffers.Current=323
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=33
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=33
+	
+[2017-10-08 08:45:18.425 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:44:18	
+[2017-10-08 08:46:18.438 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:45:18	
+[2017-10-08 08:47:18.453 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:46:18	
+[2017-10-08 08:48:18.467 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:47:18	
+[2017-10-08 08:49:18.479 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:48:18	
+[2017-10-08 08:49:18.479 GMT     4	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=5522
+Messaging.Received.Bytes.Total.Current=8235
+Messaging.Received.Direction.OneWay.Current=18
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=7
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=25
+Messaging.Received.Messages.Total.Current=25
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=23, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1350
+Messaging.Sent.Bytes.Total.Current=1676
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=7
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=7
+Messaging.Sent.Messages.Total.Current=7
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=5, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=6.572
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=27995
+Runtime.Memory.AvailableMemoryMb=1668
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=217
+Serialization.BufferPool.CheckedInBuffers.Current=290
+Serialization.BufferPool.CheckedOutBuffers.Current=323
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=33
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=33
+	
+[2017-10-08 08:50:18.494 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:49:18	
+[2017-10-08 08:51:18.507 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:50:18	
+[2017-10-08 08:52:18.520 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:51:18	
+[2017-10-08 08:53:18.534 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:52:18	
+[2017-10-08 08:54:18.549 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:53:18	
+[2017-10-08 08:54:18.579 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=5522
+Messaging.Received.Bytes.Total.Current=8235
+Messaging.Received.Direction.OneWay.Current=18
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=7
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=25
+Messaging.Received.Messages.Total.Current=25
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=23, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1350
+Messaging.Sent.Bytes.Total.Current=1676
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=7
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=7
+Messaging.Sent.Messages.Total.Current=7
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=5, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.011
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=32874
+Runtime.Memory.AvailableMemoryMb=1683
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=217
+Serialization.BufferPool.CheckedInBuffers.Current=290
+Serialization.BufferPool.CheckedOutBuffers.Current=323
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=33
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=33
+	
+[2017-10-08 08:55:18.561 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:54:18	
+[2017-10-08 08:56:16.225 GMT     8	WARNING	100162	OutsideRuntimeClient	192.168.2.241:0]	Object associated with Observer ID 1db5cbf5-6900-4ca9-ada3-90e8ffb3279c has been garbage collected. Deleting object reference and unregistering it. Message = OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #2380: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 08:56:17.386 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #2385: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 08:56:18.574 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:55:18	
+[2017-10-08 08:56:21.360 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #2394: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 08:56:22.462 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #2399: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 08:56:23.691 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #2404: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 08:56:24.091 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #2409: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 08:57:18.588 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:56:18	
+[2017-10-08 08:58:18.602 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:57:18	
+[2017-10-08 08:59:18.616 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:58:18	
+[2017-10-08 08:59:18.621 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728,      Delta=2206
+Messaging.Received.Bytes.Total.Current=10631,      Delta=2396
+Messaging.Received.Direction.OneWay.Current=26,      Delta=8
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9,      Delta=2
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35,      Delta=10
+Messaging.Received.Messages.Total.Current=35,      Delta=10
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708,      Delta=358
+Messaging.Sent.Bytes.Total.Current=2096,      Delta=420
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9,      Delta=2
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9,      Delta=2
+Messaging.Sent.Messages.Total.Current=9,      Delta=2
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=13.646
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=37987
+Runtime.Memory.AvailableMemoryMb=1321
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296,      Delta=6
+Serialization.BufferPool.CheckedOutBuffers.Current=337,      Delta=14
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:00:18.629 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 8:59:18	
+[2017-10-08 09:01:18.643 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:00:18	
+[2017-10-08 09:02:18.656 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:01:18	
+[2017-10-08 09:03:18.670 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:02:18	
+[2017-10-08 09:04:18.644 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=12.328
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=42866
+Runtime.Memory.AvailableMemoryMb=756
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:04:18.684 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:03:18	
+[2017-10-08 09:05:18.698 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:04:18	
+[2017-10-08 09:06:18.710 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:05:18	
+[2017-10-08 09:07:18.724 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:06:18	
+[2017-10-08 09:08:18.739 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:07:18	
+[2017-10-08 09:09:18.685 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.054
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=47749
+Runtime.Memory.AvailableMemoryMb=705
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:09:18.751 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:08:18	
+[2017-10-08 09:10:18.766 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:09:18	
+[2017-10-08 09:11:18.778 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:10:18	
+[2017-10-08 09:12:18.792 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:11:18	
+[2017-10-08 09:13:18.806 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:12:18	
+[2017-10-08 09:14:18.715 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.764
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=52634
+Runtime.Memory.AvailableMemoryMb=724
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:14:18.819 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:13:18	
+[2017-10-08 09:15:18.833 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:14:18	
+[2017-10-08 09:16:18.846 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:15:18	
+[2017-10-08 09:17:18.860 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:16:18	
+[2017-10-08 09:18:18.873 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:17:18	
+[2017-10-08 09:19:18.735 GMT     4	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.763
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=3
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=2, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=54009.00, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.005
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=71.740
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=57515
+Runtime.Memory.AvailableMemoryMb=721
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:19:18.887 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:18:18	
+[2017-10-08 09:20:18.902 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:19:18	
+[2017-10-08 09:21:18.914 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:20:18	
+[2017-10-08 09:22:18.929 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:21:18	
+[2017-10-08 09:23:18.942 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:22:18	
+[2017-10-08 09:24:18.837 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=11.998
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=187.820
+Runtime.GC.GenCollectonCount=gen0=3, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=42239.25, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=13.998
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=13504
+Runtime.Memory.AvailableMemoryMb=586
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:24:18.956 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:23:18	
+[2017-10-08 09:25:18.969 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:24:18	
+[2017-10-08 09:26:18.982 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:25:18	
+[2017-10-08 09:27:18.997 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:26:18	
+[2017-10-08 09:28:19.009 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:27:18	
+[2017-10-08 09:29:18.866 GMT     5	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=26.551
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=3, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=42239.25, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=13.998
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=18397
+Runtime.Memory.AvailableMemoryMb=567
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:29:19.024 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:28:19	
+[2017-10-08 09:30:19.036 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:29:19	
+[2017-10-08 09:31:19.051 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:30:19	
+[2017-10-08 09:32:19.063 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:31:19	
+[2017-10-08 09:33:19.078 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:32:19	
+[2017-10-08 09:34:18.889 GMT     4	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.646
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=3, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=42239.25, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=13.998
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=23274
+Runtime.Memory.AvailableMemoryMb=662
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:34:19.091 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:33:19	
+[2017-10-08 09:35:19.104 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:34:19	
+[2017-10-08 09:36:19.118 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:35:19	
+[2017-10-08 09:37:19.131 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:36:19	
+[2017-10-08 09:38:19.146 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:37:19	
+[2017-10-08 09:39:18.926 GMT     4	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.935
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=3, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=42239.25, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=13.998
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=28159
+Runtime.Memory.AvailableMemoryMb=650
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:39:19.158 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:38:19	
+[2017-10-08 09:40:19.173 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:39:19	
+[2017-10-08 09:41:19.187 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:40:19	
+[2017-10-08 09:42:19.199 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:41:19	
+[2017-10-08 09:43:19.214 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:42:19	
+[2017-10-08 09:44:18.982 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=8.843
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=3, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=42239.25, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=13.998
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=33044
+Runtime.Memory.AvailableMemoryMb=663
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:44:19.227 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:43:19	
+[2017-10-08 09:45:19.240 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:44:19	
+[2017-10-08 09:46:19.255 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:45:19	
+[2017-10-08 09:47:19.268 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:46:19	
+[2017-10-08 09:48:19.282 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:47:19	
+[2017-10-08 09:49:19.039 GMT     4	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=10.508
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=3, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=42239.25, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=13.998
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=37926
+Runtime.Memory.AvailableMemoryMb=660
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:49:19.295 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:48:19	
+[2017-10-08 09:50:19.308 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:49:19	
+[2017-10-08 09:51:19.321 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:50:19	
+[2017-10-08 09:52:19.336 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:51:19	
+[2017-10-08 09:53:19.349 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:52:19	
+[2017-10-08 09:54:19.119 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.980
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=3, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=42239.25, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=13.998
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=42810
+Runtime.Memory.AvailableMemoryMb=657
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:54:19.364 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:53:19	
+[2017-10-08 09:55:19.377 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:54:19	
+[2017-10-08 09:56:19.390 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:55:19	
+[2017-10-08 09:57:19.404 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:56:19	
+[2017-10-08 09:58:19.416 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:57:19	
+[2017-10-08 09:59:19.157 GMT     4	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=8.511
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=3, gen1=1, gen2=0
+Runtime.GC.GenSizesKb=gen0=42239.25, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=13.998
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=47697
+Runtime.Memory.AvailableMemoryMb=1288
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 09:59:19.432 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:58:19	
+[2017-10-08 10:00:19.445 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 9:59:19	
+[2017-10-08 10:01:19.459 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:00:19	
+[2017-10-08 10:02:19.472 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:01:19	
+[2017-10-08 10:03:19.484 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:02:19	
+[2017-10-08 10:04:19.201 GMT     4	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.700
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=308.603
+Runtime.GC.GenCollectonCount=gen0=5, gen1=2, gen2=1
+Runtime.GC.GenSizesKb=gen0=33827.67, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=10926
+Runtime.Memory.AvailableMemoryMb=1289
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 10:04:19.498 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:03:19	
+[2017-10-08 10:05:19.512 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:04:19	
+[2017-10-08 10:06:19.526 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:05:19	
+[2017-10-08 10:07:19.539 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:06:19	
+[2017-10-08 10:08:19.553 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:07:19	
+[2017-10-08 10:09:19.213 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=18.647
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=5, gen1=2, gen2=1
+Runtime.GC.GenSizesKb=gen0=33827.67, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=15808
+Runtime.Memory.AvailableMemoryMb=956
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 10:09:19.566 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:08:19	
+[2017-10-08 10:10:19.580 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:09:19	
+[2017-10-08 10:11:19.594 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:10:19	
+[2017-10-08 10:12:19.607 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:11:19	
+[2017-10-08 10:13:19.622 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:12:19	
+[2017-10-08 10:14:19.232 GMT     5	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.846
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=5, gen1=2, gen2=1
+Runtime.GC.GenSizesKb=gen0=33827.67, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=20693
+Runtime.Memory.AvailableMemoryMb=1332
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 10:14:19.635 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:13:19	
+[2017-10-08 10:15:19.648 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:14:19	
+[2017-10-08 10:16:19.661 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:15:19	
+[2017-10-08 10:17:19.675 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:16:19	
+[2017-10-08 10:18:19.688 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:17:19	
+[2017-10-08 10:19:19.284 GMT     7	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=7728
+Messaging.Received.Bytes.Total.Current=10631
+Messaging.Received.Direction.OneWay.Current=26
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=9
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=35
+Messaging.Received.Messages.Total.Current=35
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=33, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=1708
+Messaging.Sent.Bytes.Total.Current=2096
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=9
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=9
+Messaging.Sent.Messages.Total.Current=9
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=7.422
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=5, gen1=2, gen2=1
+Runtime.GC.GenSizesKb=gen0=33827.67, gen1=3568.39, gen2=1090.79
+Runtime.GC.LargeObjectHeapSizeKb=7127.430
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=1082.414
+Runtime.GC.TotalMemoryKb=25502
+Runtime.Memory.AvailableMemoryMb=1328
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=209
+Serialization.BufferPool.CheckedInBuffers.Current=296
+Serialization.BufferPool.CheckedOutBuffers.Current=337
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=41
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=41
+	
+[2017-10-08 10:19:19.702 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:18:19	
+[2017-10-08 10:20:19.716 GMT     5	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:19:19	
+[2017-10-08 10:21:19.729 GMT     4	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:20:19	
+[2017-10-08 10:22:19.744 GMT     7	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:21:19	
+[2017-10-08 10:22:24.503 GMT     8	INFO   	600924	OutsideRuntimeClient	192.168.2.241:0]	Log code 100924 occurred 2 additional times in the previous 01:26:08.2776086	
+[2017-10-08 10:22:24.504 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #8123: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 10:22:25.039 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #8127: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 10:22:26.287 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #8132: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 10:22:26.430 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #8136: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 10:22:27.717 GMT     8	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/6f57de80. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@39a0de80->*cli/6f57de80@a793d56b1db5cbf5-6900-4ca9-ada3-90e8ffb3279c #8142: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	

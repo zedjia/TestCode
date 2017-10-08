@@ -1,0 +1,9 @@
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\bin\Debug\WinSocketClient.exe.config
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\bin\Debug\WinSocketClient.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\bin\Debug\WinSocketClient.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\obj\Debug\WinSocketClient.csprojResolveAssemblyReference.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\obj\Debug\WinSocketClient.Properties.Resources.resources
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\obj\Debug\WinSocketClient.csproj.GenerateResource.Cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\obj\Debug\WinSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\obj\Debug\WinSocketClient.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinSocketClient\obj\Debug\WinSocketClient.pdb

@@ -1,0 +1,44 @@
+2017-09-04-21.23.23.237ZZ
+ERROR starting Orleans silo name=Default Exception=
+Exc level 0: System.AggregateException: Error loading Config file: Cannot locate Orleans silo config file.
+Searched locations:
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\OrleansConfiguration.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\orleans.config
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\orleans.config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\approot\OrleansConfiguration.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\approot\orleans.config
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\approot\config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\approot\orleans.config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\OrleansConfiguration.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\orleans.config
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\orleans.config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\OrleansConfiguration.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\orleans.config
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\orleans.config.xml
+
+   在 Orleans.Runtime.Host.SiloHost.LoadOrleansConfig()
+   在 Orleans.Runtime.Host.SiloHost.InitializeOrleansSilo()
+Exc level 1: System.IO.FileNotFoundException: Cannot locate Orleans silo config file.
+Searched locations:
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\OrleansConfiguration.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\orleans.config
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\orleans.config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\approot\OrleansConfiguration.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\approot\orleans.config
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\approot\config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\approot\orleans.config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\OrleansConfiguration.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\orleans.config
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\Debug\orleans.config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\OrleansConfiguration.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\orleans.config
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\config.xml
+	- C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\ConsoleServerApp\bin\orleans.config.xml
+
+   在 Orleans.Runtime.Configuration.ConfigUtilities.FindConfigFile(Boolean isSilo)
+   在 Orleans.Runtime.Host.SiloHost.LoadOrleansConfig()

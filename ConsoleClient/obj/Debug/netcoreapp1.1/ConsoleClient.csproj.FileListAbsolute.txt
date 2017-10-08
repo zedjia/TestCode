@@ -1,0 +1,9 @@
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.deps.json
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.runtimeconfig.json
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.runtimeconfig.dev.json
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.dll
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.pdb
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\obj\Debug\netcoreapp1.1\ConsoleClient.AssemblyInfo.cs
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\obj\Debug\netcoreapp1.1\ConsoleClient.dll
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\obj\Debug\netcoreapp1.1\ConsoleClient.pdb
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\ConsoleClient\obj\Debug\netcoreapp1.1\ConsoleClient.csprojResolveAssemblyReference.cache

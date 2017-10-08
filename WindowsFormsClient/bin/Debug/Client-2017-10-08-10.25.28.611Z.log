@@ -1,0 +1,282 @@
+[2017-10-08 10:25:33.778 GMT     1	INFO   	100000	AssemblyLoader.Client	]	Recursively searching for assemblies in C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug...	
+[2017-10-08 10:25:33.829 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\GrainImps.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:33.830 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\GrainInterfaces.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.111 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.232 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.CodeAnalysis.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.232 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.236 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.236 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Microsoft.Win32.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.254 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Newtonsoft.Json.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.254 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Orleans.dll
+	* Assembly filename is excluded.	
+[2017-10-08 10:25:34.255 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\OrleansCodeGenerator.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.267 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\SuperSocket.Common.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.269 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\SuperSocket.ProtoBase.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.279 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\SuperSocket.SocketBase.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.279 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.AppContext.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.293 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Collections.Immutable.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.294 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Console.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.296 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.296 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.296 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Diagnostics.StackTrace.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.296 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Globalization.Calendars.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.298 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.IO.Compression.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.298 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.IO.Compression.ZipFile.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.298 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.IO.FileSystem.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.299 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.IO.FileSystem.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.306 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Net.Http.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.306 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Net.Sockets.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.333 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Reflection.Metadata.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.334 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.334 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Security.Cryptography.Algorithms.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.334 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Security.Cryptography.Encoding.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.334 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Security.Cryptography.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.334 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.336 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Text.Encoding.CodePages.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.337 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Threading.Thread.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.339 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.ValueTuple.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.339 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Xml.ReaderWriter.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.339 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Xml.XmlDocument.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.339 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Xml.XPath.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.339 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\System.Xml.XPath.XDocument.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.354 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Z.Lib.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-08 10:25:34.354 GMT     1	INFO   	100000	AssemblyLoader.Client	]	Loading assembly C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\OrleansProviders.dll...	
+[2017-10-08 10:25:34.381 GMT     1	INFO   	100000	AssemblyLoader.Client	]	1 assemblies loaded.	
+[2017-10-08 10:25:34.489 GMT     1	INFO   	100313	OutsideRuntimeClient	]	---------- Initializing OutsideRuntimeClient on zed-PC at 192.168.2.241 Client Id = *cli/973934af ----------	
+[2017-10-08 10:25:34.499 GMT     1	INFO   	100314	OutsideRuntimeClient	]	---------- Starting OutsideRuntimeClient with runtime Version='1.5.1.0 (Release).' in AppDomain=<AppDomain.Id=1, AppDomain.FriendlyName=WindowsFormsClient.exe> Config= 
+ Platform version info:
+   Orleans version: 1.5.1.0 (Release).
+   .NET version: 4.0.30319.42000
+   OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+   App config file: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.Config
+   GC Type=Server GCLatencyMode=Interactive
+   Host: zed-PC
+   Processor Count: 4
+Client Configuration:
+   Config File Name: 
+   Start time: 2017-10-08 10:25:34.494 GMT
+   Gateway Provider: Config
+   Gateways[1]:
+      127.0.0.1:30000
+   Preferred Gateway Index: -1
+   GatewayListRefreshPeriod: 00:01:00
+   Preferred Address Family: InterNetwork
+   DNS Host Name: zed-PC
+   Client Name: Client
+   Tracing: 
+     Default Trace Level: Info
+     TraceLevelOverrides: None
+     Trace to Console: True
+     Trace File Name: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Client-2017-10-08-10.25.28.611Z.log
+     LargeMessageWarningThreshold: 85000
+     PropagateActivityId: False
+     BulkMessageLimit: 5
+   Statistics: 
+     MetricsTableWriteInterval: 00:00:30
+     PerfCounterWriteInterval: -00:00:00.0010000
+     LogWriteInterval: 00:05:00
+     WriteLogStatisticsToTable: True
+     StatisticsCollectionLevel: Info
+   Messaging:
+       Response timeout: 00:00:30
+       Maximum resend count: 0
+       Resend On Timeout: False
+       Maximum Socket Age: 10675199.02:48:05.4775807
+       Drop Expired Messages: True
+       Client Sender Buckets: 8192
+       Buffer Pool Buffer Size: 4096
+       Buffer Pool Max Size: 10000
+       Buffer Pool Preallocation Size: 250
+       Fallback serializer: 
+   .NET: 
+       .NET thread pool sizes - Min: Worker Threads=4 Completion Port Threads=4
+       .NET thread pool sizes - Max: Worker Threads=2047 Completion Port Threads=1000
+   Providers:
+       No providers configured.
+	
+[2017-10-08 10:25:34.612 GMT     6	INFO   	101309	Messaging.GatewayManager	]	Found 1 knownGateways from Gateway listProvider [gwy.tcp://127.0.0.1:30000/0]	
+[2017-10-08 10:25:34.657 GMT     6	INFO   	100908	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Connected to gateway at address gwy.tcp://127.0.0.1:30000/0 on trial 0.	
+[2017-10-08 10:25:34.659 GMT    14	INFO   	100000	Messaging.GatewayClientReceiver/gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Starting AsyncAgent Messaging.GatewayClientReceiver/gwy.tcp://127.0.0.1:30000/0 on managed thread 14	
+[2017-10-08 10:25:34.663 GMT    13	INFO   	100000	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Starting AsyncAgent Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0 on managed thread 13	
+[2017-10-08 10:25:34.827 GMT    11	INFO   	100929	OutsideRuntimeClient	192.168.2.241:0]	---------- Started OutsideRuntimeClient with Global Client ID: C192.168.2.241:0:-245154334*cli/973934af@e451519b, client GUID ID: *cli/973934af	
+[2017-10-08 10:26:34.623 GMT    12	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:25:34	
+[2017-10-08 10:27:34.632 GMT    11	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:26:34	
+[2017-10-08 10:28:34.645 GMT     6	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:27:34	
+[2017-10-08 10:29:34.658 GMT    12	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:28:34	
+[2017-10-08 10:30:34.671 GMT     6	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:29:34	
+[2017-10-08 10:30:34.886 GMT    11	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=2644
+Messaging.Received.Bytes.Total.Current=5098
+Messaging.Received.Direction.OneWay.Current=7
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=5
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=12
+Messaging.Received.Messages.Total.Current=12
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=10, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=992
+Messaging.Sent.Bytes.Total.Current=1256
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=5
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=5
+Messaging.Sent.Messages.Total.Current=5
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=3, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=8.575
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=4, gen1=2, gen2=1
+Runtime.GC.GenSizesKb=gen0=48238.59, gen1=1240.19, gen2=0.05
+Runtime.GC.LargeObjectHeapSizeKb=3493.680
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.000
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=4.949
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=25422
+Runtime.Memory.AvailableMemoryMb=1677
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=217
+Serialization.BufferPool.CheckedInBuffers.Current=273
+Serialization.BufferPool.CheckedOutBuffers.Current=306
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=33
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=33
+	
+[2017-10-08 10:31:34.686 GMT     6	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:30:34	
+[2017-10-08 10:32:34.700 GMT    12	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:31:34	
+[2017-10-08 10:33:34.713 GMT    11	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:32:34	
+[2017-10-08 10:34:34.726 GMT    11	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:33:34	
+[2017-10-08 10:35:34.739 GMT     6	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:34:34	
+[2017-10-08 10:35:34.904 GMT    12	INFO   	100704	ClientLogStatistics	192.168.2.241:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=1
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=2644
+Messaging.Received.Bytes.Total.Current=5098
+Messaging.Received.Direction.OneWay.Current=7
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=5
+Messaging.Received.Messages.From.S127.0.0.1:30000:0.Current=12
+Messaging.Received.Messages.Total.Current=12
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=10, [256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=992
+Messaging.Sent.Bytes.Total.Current=1256
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=5
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S127.0.0.1:30000:0.Current=5
+Messaging.Sent.Messages.Total.Current=5
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=3, [256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=1
+Runtime.CpuUsage=80.708
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=2
+Runtime.GC.AllocatedBytesInKbPerSec=199.044
+Runtime.GC.GenCollectonCount=gen0=5, gen1=3, gen2=2
+Runtime.GC.GenSizesKb=gen0=35763.09, gen1=0.05, gen2=4669.82
+Runtime.GC.LargeObjectHeapSizeKb=6986.148
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.444
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.047
+Runtime.GC.PromotedMemoryFromGen1Kb=3562.191
+Runtime.GC.TotalMemoryKb=10369
+Runtime.Memory.AvailableMemoryMb=705
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=1
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=2
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=217
+Serialization.BufferPool.CheckedInBuffers.Current=273
+Serialization.BufferPool.CheckedOutBuffers.Current=306
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=33
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=33
+	
+[2017-10-08 10:36:32.414 GMT     5	WARNING	100162	OutsideRuntimeClient	192.168.2.241:0]	Object associated with Observer ID 7ac05a1b-55e1-4de1-bde8-bef91fd61996 has been garbage collected. Deleting object reference and unregistering it. Message = OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@8f3bd181->*cli/973934af@d88b0eb17ac05a1b-55e1-4de1-bde8-bef91fd61996 #786: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 10:36:34.762 GMT    11	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:35:34	
+[2017-10-08 10:36:36.196 GMT     5	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/973934af. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@8f3bd181->*cli/973934af@d88b0eb17ac05a1b-55e1-4de1-bde8-bef91fd61996 #793: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 10:36:41.261 GMT     5	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/973934af. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@8f3bd181->*cli/973934af@d88b0eb17ac05a1b-55e1-4de1-bde8-bef91fd61996 #801: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 10:36:41.924 GMT     5	ERROR  	100924	OutsideRuntimeClient	192.168.2.241:0]	!!!!!!!!!! Unexpected target grain in request: *cli/973934af. Message=OneWay S127.0.0.1:30000:0*grn/52FD4D9E/00000000@8f3bd181->*cli/973934af@d88b0eb17ac05a1b-55e1-4de1-bde8-bef91fd61996 #805: global::GrainInterfaces.IMsgObserver:ReceiveMessage()	
+[2017-10-08 10:36:45.606 GMT    14	WARNING	100158	Messaging.GatewayClientReceiver/gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Exception receiving from gateway gwy.tcp://127.0.0.1:30000/0: Socket closed	
+[2017-10-08 10:36:45.607 GMT    14	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Marking gateway at address gwy.tcp://127.0.0.1:30000/0 as Disconnected	
+[2017-10-08 10:36:45.646 GMT     6	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:36:34	
+[2017-10-08 10:36:46.667 GMT    14	WARNING	100178	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Unable to connect to gateway at address gwy.tcp://127.0.0.1:30000/0 on trial 0 (Exception: Could not connect to 127.0.0.1:30000: ConnectionRefused)	
+[2017-10-08 10:36:46.667 GMT    14	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Marking gateway at address gwy.tcp://127.0.0.1:30000/0 as Disconnected	
+[2017-10-08 10:36:46.672 GMT    12	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:36:45	
+[2017-10-08 10:36:47.676 GMT    14	WARNING	100178	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Unable to connect to gateway at address gwy.tcp://127.0.0.1:30000/0 on trial 1 (Exception: Could not connect to 127.0.0.1:30000: ConnectionRefused)	
+[2017-10-08 10:36:47.676 GMT    14	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Marking gateway at address gwy.tcp://127.0.0.1:30000/0 as Disconnected	
+[2017-10-08 10:36:47.676 GMT    11	INFO   	101309	Messaging.GatewayManager	192.168.2.241:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2017/10/8 10:36:46	
+[2017-10-08 10:36:47.676 GMT    14	WARNING	100912	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Marking gateway at address gwy.tcp://127.0.0.1:30000/0 as Dead in my client local gateway list.	
+[2017-10-08 10:36:47.679 GMT    14	INFO   	100328	Messaging.GatewayClientReceiver/gwy.tcp://127.0.0.1:30000/0	192.168.2.241:0]	Stopping AsyncAgent Messaging.GatewayClientReceiver/gwy.tcp://127.0.0.1:30000/0 that runs on managed thread 14	

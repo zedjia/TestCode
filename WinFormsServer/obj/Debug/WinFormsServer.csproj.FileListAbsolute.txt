@@ -1,0 +1,340 @@
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\WinFormsServer.exe.config
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\WinFormsServer.exe
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\WinFormsServer.pdb
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\WinFormsServer\obj\Debug\WinFormsServer.csprojResolveAssemblyReference.cache
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\WinFormsServer\obj\Debug\WinFormsServer.Properties.Resources.resources
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\WinFormsServer\obj\Debug\WinFormsServer.csproj.GenerateResource.Cache
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\WinFormsServer\obj\Debug\WinFormsServer.exe
+c:\users\zed\documents\visual studio 2017\Projects\OrleansDemos\WinFormsServer\obj\Debug\WinFormsServer.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\obj\Debug\WinFormsServer.csproj.CoreCompileInputs.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\obj\Debug\WinFormsServer.ServerForm.resources
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\WC.Lib.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.Common.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\WC.Lib.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.SocketBase.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.SocketBase.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.Common.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\SuperSocket.Common.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansConfiguration.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\InterfacesLib.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Orleans.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansCodeGenerator.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansCounterControl.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansHost.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansProviders.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansRuntime.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansTelemetryConsumers.Counters.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.AppContext.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Console.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.IO.Compression.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Net.Http.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Net.Sockets.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Threading.Thread.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.ValueTuple.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Xml.XPath.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\InterfacesLib.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\InterfacesLib.dll.config
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Orleans.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansCodeGenerator.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansProviders.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansRuntime.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\OrleansTelemetryConsumers.Counters.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\OrleansDemos\WinFormsServer\obj\Debug\WinFormsServer.csproj.WinFormsServer.exe.config
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csprojResolveAssemblyReference.cache
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.WinFormsServer.exe.config
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.Properties.Resources.resources
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.ServerForm.resources
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.GenerateResource.Cache
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.CoreCompileInputs.cache
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.exe
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansConfiguration.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\WinFormsServer.exe.config
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\WinFormsServer.exe
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\WinFormsServer.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\InterfacesLib.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Newtonsoft.Json.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Orleans.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansCodeGenerator.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansCounterControl.exe
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansHost.exe
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansProviders.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansRuntime.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansTelemetryConsumers.Counters.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.AppContext.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Collections.Immutable.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Console.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Globalization.Calendars.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.IO.Compression.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.IO.FileSystem.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Net.Http.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Net.Sockets.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Reflection.Metadata.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Threading.Thread.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.ValueTuple.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Xml.XmlDocument.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Xml.XPath.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Z.Lib.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.SocketBase.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.Common.dll
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\InterfacesLib.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\InterfacesLib.dll.config
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Z.Lib.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Newtonsoft.Json.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Orleans.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansCodeGenerator.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansProviders.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansRuntime.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\OrleansTelemetryConsumers.Counters.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Collections.Immutable.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\System.Reflection.Metadata.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.SocketBase.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.SocketBase.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.xml
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.Common.pdb
+E:\Hightop\dabajiance\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.Common.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csprojResolveAssemblyReference.cache
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.WinFormsServer.exe.config
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.Properties.Resources.resources
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.ServerForm.resources
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.GenerateResource.Cache
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.CoreCompileInputs.cache
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.exe
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\obj\Debug\WinFormsServer.pdb
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansConfiguration.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\WinFormsServer.exe.config
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\WinFormsServer.exe
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\WinFormsServer.pdb
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\InterfacesLib.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Newtonsoft.Json.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Orleans.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansCodeGenerator.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansCounterControl.exe
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansHost.exe
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansProviders.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansRuntime.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansTelemetryConsumers.Counters.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.AppContext.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Collections.Immutable.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Console.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Globalization.Calendars.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.IO.Compression.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.IO.FileSystem.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Net.Http.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Net.Sockets.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Reflection.Metadata.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Threading.Thread.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.ValueTuple.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Xml.ReaderWriter.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Xml.XmlDocument.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Xml.XPath.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Platform.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Z.Lib.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.SocketBase.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.Common.dll
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\InterfacesLib.pdb
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\InterfacesLib.dll.config
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Z.Lib.pdb
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Newtonsoft.Json.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Orleans.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansCodeGenerator.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansProviders.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansRuntime.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\OrleansTelemetryConsumers.Counters.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Collections.Immutable.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\System.Reflection.Metadata.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.pdb
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.SocketBase.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.xml
+F:\文档\大坝监测\svn\TR3\TestCode\WinFormsServer\bin\Debug\SuperSocket.Common.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansConfiguration.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\WinFormsServer.exe.config
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\WinFormsServer.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\WinFormsServer.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\GrainImps.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\GrainInterfaces.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Orleans.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansCodeGenerator.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansCounterControl.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansHost.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansProviders.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansRuntime.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansTelemetryConsumers.Counters.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.AppContext.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Console.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.IO.Compression.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Net.Http.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Net.Sockets.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Threading.Thread.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.ValueTuple.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Xml.XPath.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Z.Lib.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\SuperSocket.Common.dll
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\GrainImps.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\GrainImps.dll.config
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\GrainInterfaces.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\GrainInterfaces.dll.config
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Z.Lib.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Orleans.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansCodeGenerator.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansProviders.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansRuntime.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\OrleansTelemetryConsumers.Counters.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\SuperSocket.SocketBase.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\SuperSocket.ProtoBase.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\SuperSocket.Common.xml
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csprojResolveAssemblyReference.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.Properties.Resources.resources
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.ServerForm.resources
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.GenerateResource.Cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.CoreCompileInputs.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.pdb

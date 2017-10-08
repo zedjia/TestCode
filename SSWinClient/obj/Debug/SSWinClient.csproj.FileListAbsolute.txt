@@ -1,0 +1,10 @@
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\bin\Debug\SSWinClient.exe.config
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\bin\Debug\SSWinClient.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\bin\Debug\SSWinClient.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\obj\Debug\SSWinClient.csprojResolveAssemblyReference.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\obj\Debug\SSWinClient.Properties.Resources.resources
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\obj\Debug\SSWinClient.csproj.GenerateResource.Cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\obj\Debug\SSWinClient.csproj.CoreCompileInputs.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\obj\Debug\SSWinClient.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinClient\obj\Debug\SSWinClient.pdb
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\SSWinClient\obj\Debug\SSWinClient.ClientForm.resources

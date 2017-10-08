@@ -1,0 +1,2299 @@
+[2017-10-07 12:15:12.033 GMT     1	INFO   	100404	Silo	127.0.0.1:11111]	Silo starting with GC settings: ServerGC=True GCLatencyMode=Batch	
+[2017-10-07 12:15:12.036 GMT     1	INFO   	100403	Silo	127.0.0.1:11111]	-------------- Initializing Primary silo on host zed-PC MachineName ZED-PC at 127.0.0.1:11111, gen 245074512 --------------	
+[2017-10-07 12:15:12.054 GMT     1	INFO   	100415	Silo	127.0.0.1:11111]	Starting silo zed-PC with the following configuration= 
+Config File Name: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\OrleansConfiguration.xml
+Host: zed-PC
+Start time: 2017-10-07 12:15:12.038 GMT
+Primary node: 127.0.0.1:11111
+Platform version info:
+   Orleans version: 1.5.1.0 (Release).
+   .NET version: 4.0.30319.42000
+   OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+   App config file: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\ConsoleTestServer.exe.Config
+   GC Type=Server GCLatencyMode=Batch
+Global configuration:
+   System Ids:
+      ServiceId: 00000000-0000-0000-0000-000000000000
+      DeploymentId: 
+   Subnet: 
+   Seed nodes: 127.0.0.1:11111
+   Messaging:
+       Response timeout: 00:00:30
+       Maximum resend count: 0
+       Resend On Timeout: False
+       Maximum Socket Age: 10675199.02:48:05.4775807
+       Drop Expired Messages: True
+       Silo Sender queues: 4
+       Gateway Sender queues: 4
+       Client Drop Timeout: 00:01:00
+       Buffer Pool Buffer Size: 4096
+       Buffer Pool Max Size: 10000
+       Buffer Pool Preallocation Size: 250
+       Maximum forward count: 2
+       Fallback serializer: 
+   Liveness:
+      LivenessEnabled: True
+      LivenessType: MembershipTableGrain
+      ProbeTimeout: 00:00:10
+      TableRefreshTimeout: 00:01:00
+      DeathVoteExpirationTimeout: 00:02:00
+      NumMissedProbesLimit: 3
+      NumProbedSilos: 3
+      NumVotesForDeathDeclaration: 2
+      UseLivenessGossip: True
+      ValidateInitialConnectivity: True
+      IAmAliveTablePublishTimeout: 00:05:00
+      NumMissedTableIAmAliveLimit: 2
+      MaxJoinAttemptTime: 00:05:00
+      ExpectedClusterSize: 20
+   MultiClusterNetwork: N/A
+   SystemStore:
+      SystemStore ConnectionString: null
+      Reminders ConnectionString: null
+   Application:
+      Defaults:
+         Deactivate if idle for: 02:00:00
+
+   PlacementStrategy: 
+         Default Placement Strategy: RandomPlacement
+         Deployment Load Publisher Refresh Time: 00:00:01
+         Activation CountBased Placement Choose Out Of: 2
+   Grain directory cache:
+      Maximum size: 1000000 grains
+      Initial TTL: 00:00:30
+      Maximum TTL: 00:04:00
+      TTL extension factor: 2.00
+      Directory Caching Strategy: Adaptive
+   Grain directory:
+      Lazy deregistration delay: 00:01:00
+      Client registration refresh: 00:05:00
+   Reminder Service:
+       ReminderServiceType: ReminderTableGrain
+   Consistent Ring:
+       Use Virtual Buckets Consistent Ring: True
+       Num Virtual Buckets Consistent Ring: 30
+   Providers:
+       StorageProviders:
+           Name=MemoryStore, Type=Orleans.Storage.MemoryStorage, Properties=[]
+
+Silo configuration:
+   Silo Name: zed-PC
+   Generation: 245074512
+   Host Name or IP Address: localhost
+   DNS Host Name: zed-PC
+   Port: 11111
+   Subnet: 
+   Preferred Address Family: InterNetwork
+   Proxy Gateway: 127.0.0.1:30000
+   IsPrimaryNode: True
+   Scheduler: 
+         Max Active Threads: 4
+         Processor Count: 4
+         Delay Warning Threshold: 00:00:10
+         Activation Scheduling Quantum: 00:00:00.1000000
+         Turn Warning Length Threshold: 00:00:00.2000000
+         Inject More Worker Threads: False
+         MinDotNetThreadPoolSize: 200
+         .NET thread pool sizes - Min: Worker Threads=4 Completion Port Threads=4
+         .NET thread pool sizes - Max: Worker Threads=2047 Completion Port Threads=1000
+         .NET ServicePointManager - DefaultConnectionLimit=200 Expect100Continue=False UseNagleAlgorithm=False
+   Load Shedding Enabled: False
+   Load Shedding Limit: 95
+   SiloShutdownEventName: 
+   Debug: 
+   Tracing: 
+     Default Trace Level: Info
+     TraceLevelOverrides: None
+     Trace to Console: True
+     Trace File Name: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\zed-PC-2017-10-07-12.15.11.852Z.log
+     LargeMessageWarningThreshold: 85000
+     PropagateActivityId: False
+     BulkMessageLimit: 5
+   Statistics: 
+     MetricsTableWriteInterval: 00:00:30
+     PerfCounterWriteInterval: 00:00:30
+     LogWriteInterval: 00:05:00
+     WriteLogStatisticsToTable: True
+     StatisticsCollectionLevel: Info
+
+	
+[2017-10-07 12:15:12.966 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	Searching for assemblies in C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug...	
+[2017-10-07 12:15:13.029 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\GrainInterfaces.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.311 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.431 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\Microsoft.CodeAnalysis.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.434 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.439 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.441 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\Microsoft.Win32.Primitives.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.462 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\Newtonsoft.Json.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.465 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\Orleans.dll
+	* Assembly filename is excluded.	
+[2017-10-07 12:15:13.468 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\OrleansCodeGenerator.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.475 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\OrleansRuntime.dll
+	* Assembly filename is excluded.	
+[2017-10-07 12:15:13.479 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\OrleansTelemetryConsumers.Counters.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.481 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.AppContext.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.496 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Collections.Immutable.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.499 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Console.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.502 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.504 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.506 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Diagnostics.StackTrace.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.508 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Diagnostics.Tracing.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.509 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Globalization.Calendars.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.512 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.IO.Compression.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.515 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.IO.Compression.ZipFile.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.518 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.IO.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.519 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.IO.FileSystem.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.521 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.529 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Net.Http.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.532 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Net.Sockets.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.534 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Reflection.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.560 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Reflection.Metadata.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.562 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Runtime.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.564 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Runtime.Extensions.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.566 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Runtime.InteropServices.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.568 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.569 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.570 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.571 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.572 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.574 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Text.Encoding.CodePages.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.575 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Threading.Thread.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.578 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.ValueTuple.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.579 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Xml.ReaderWriter.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.580 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Xml.XmlDocument.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.582 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Xml.XPath.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.583 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	User assembly ignored: C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\System.Xml.XPath.XDocument.dll
+	* Assembly does not contain any acceptable grain types.
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2017-10-07 12:15:13.584 GMT     1	WARNING	101705	AssemblyLoader.Silo	127.0.0.1:11111]	Unable to find directory C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\Applications; skipping.	
+[2017-10-07 12:15:13.584 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	Loading assembly C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\GrainImps.dll...	
+[2017-10-07 12:15:15.782 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	Loading assembly C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\InterfacesLib.dll...	
+[2017-10-07 12:15:15.787 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	Loading assembly C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\ConsoleTestServer\bin\Debug\OrleansProviders.dll...	
+[2017-10-07 12:15:15.803 GMT     1	INFO   	100000	AssemblyLoader.Silo	127.0.0.1:11111]	3 assemblies loaded.	
+[2017-10-07 12:15:18.024 GMT     1	INFO   	100000	Scheduler.OrleansTaskScheduler	127.0.0.1:11111]	Starting OrleansTaskScheduler with 4 Max Active application Threads and 1 system thread.	
+[2017-10-07 12:15:18.043 GMT     1	INFO   	101010	Runtime.Messaging.IncomingMessageAcceptor	127.0.0.1:11111]	Opened a listening socket at address 127.0.0.1:11111	
+[2017-10-07 12:15:18.049 GMT     1	INFO   	101010	Runtime.Messaging.GatewayAcceptor	127.0.0.1:11111]	Opened a listening socket at address 127.0.0.1:30000	
+[2017-10-07 12:15:18.083 GMT     1	INFO   	100000	VirtualBucketsRingProvider	127.0.0.1:11111]	Starting VirtualBucketsRingProvider on silo S127.0.0.1:11111:245074512/x1939F36D.	
+[2017-10-07 12:15:18.102 GMT     1	INFO   	103003	VirtualBucketsRingProvider	127.0.0.1:11111]	Added Server S127.0.0.1:11111:245074512/x1939F36D. Current view: [S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]	
+[2017-10-07 12:15:18.103 GMT     1	INFO   	103005	VirtualBucketsRingProvider	127.0.0.1:11111]	-NotifyLocalRangeSubscribers about old <(0 0], Size=x100000000, %Ring=100.000%> new <MultiRange: Size=x100000000, %Ring=100.000%> increased? True	
+[2017-10-07 12:15:18.128 GMT     1	INFO   	100000	Silo	127.0.0.1:11111]	Skip multicluster oracle creation (no multicluster network configured)	
+[2017-10-07 12:15:18.129 GMT     1	INFO   	100422	Silo	127.0.0.1:11111]	-------------- Started silo S127.0.0.1:11111:245074512, ConsistentHashCode 1939F36D --------------	
+[2017-10-07 12:15:18.129 GMT     1	INFO   	100288	OrleansSiloHost	127.0.0.1:11111]	Successfully initialized Orleans silo 'zed-PC' as a Primary node.	
+[2017-10-07 12:15:18.131 GMT     1	INFO   	100441	OrleansSiloHost	127.0.0.1:11111]	Silo shutdown event name: zed-PC-Shutdown	
+[2017-10-07 12:15:18.132 GMT     1	INFO   	100442	OrleansSiloHost	127.0.0.1:11111]	Created and set shutdown event zed-PC-Shutdown	
+[2017-10-07 12:15:18.137 GMT     1	INFO   	100401	Silo	127.0.0.1:11111]	Silo Start()	
+[2017-10-07 12:15:18.139 GMT     1	INFO   	100430	Silo	127.0.0.1:11111]	Configured ThreadPool.SetMinThreads() to values: 200,200. Previous values are: 4,4.	
+[2017-10-07 12:15:18.139 GMT     1	INFO   	100436	Silo	127.0.0.1:11111]	Configured .NET ServicePointManager to Expect100Continue=False, DefaultConnectionLimit=200, UseNagleAlgorithm=False to improve Azure storage performance.	
+[2017-10-07 12:15:18.188 GMT     1	INFO   	101711	AssemblyLoader.Silo	127.0.0.1:11111]	Loaded grain type summary for 11 types: 
+Grain class GrainImps.GrainImps.ConnectClient [220094090 (0xD1E5E8A)] from GrainImps.dll implementing interfaces: GrainInterfaces.GrainInterfaces.IConnector [385837072 (0x16FF6810)], GrainInterfaces.GrainInterfaces.IMsgPublisher [-54236335 (0xFCC46B51)], GrainInterfaces.GrainInterfaces.ISubscriber [2072175819 (0x7B82E4CB)]
+Grain class InterfacesLib.InterfacesLib.HelloGrain [839508779 (0x3209E32B)] from InterfacesLib.dll implementing interfaces: InterfacesLib.InterfacesLib.IHello [102973649 (0x62340D1)]
+Grain class InterfacesLib.InterfacesLib.UserService [1589848405 (0x5EC32955)] from InterfacesLib.dll implementing interfaces: InterfacesLib.InterfacesLib.IUserService [1609282005 (0x5FEBB1D5)]
+Grain class Orleans.LogConsistency.Orleans.LogConsistency.LogConsistentGrainBase<TView> [-2062750837 (0x850CEB8B)] from Orleans.dll implementing interfaces: 
+Grain class Orleans.Providers.Orleans.Providers.MemoryStreamQueueGrain [1359359215 (0x51062CEF)] from OrleansProviders.dll implementing interfaces: Orleans.Providers.Orleans.Providers.IMemoryStreamQueueGrain [1158152105 (0x4507FFA9)]
+Grain class Orleans.Runtime.Management.Orleans.Runtime.Management.ManagementGrain [1954798034 (0x7483D9D2)] from OrleansRuntime.dll implementing interfaces: Orleans.Runtime.Orleans.Runtime.IManagementGrain [-1734666656 (0x989B1660)]
+Grain class Orleans.Runtime.MembershipService.Orleans.Runtime.MembershipService.GrainBasedMembershipTable [-2103923544 (0x8298ACA8)] from OrleansRuntime.dll implementing interfaces: Orleans.Orleans.IMembershipTableGrain [-1256503757 (0xB51B4633)]
+Grain class Orleans.Runtime.ReminderService.Orleans.Runtime.ReminderService.GrainBasedReminderTable [-55315191 (0xFCB3F509)] from OrleansRuntime.dll implementing interfaces: Orleans.Orleans.IReminderTableGrain [-1135060418 (0xBC585A3E)]
+Grain class Orleans.Runtime.Versions.Orleans.Runtime.Versions.VersionStoreGrain [331003096 (0x13BAB4D8)] from OrleansRuntime.dll implementing interfaces: Orleans.Runtime.Versions.Orleans.Runtime.Versions.IVersionStoreGrain [-297600501 (0xEE42FA0B)], Orleans.Orleans.IGrainWithStringKey [-1277021679 (0xB3E23211)]
+Grain class Orleans.Storage.Orleans.Storage.MemoryStorageGrain [819348208 (0x30D642F0)] from OrleansRuntime.dll implementing interfaces: Orleans.Storage.Orleans.Storage.IMemoryStorageGrain [577125491 (0x22663C73)]
+Grain class Orleans.Streams.Orleans.Streams.PubSubRendezvousGrain [1903070868 (0x716E8E94)] from OrleansRuntime.dll implementing interfaces: Orleans.Streams.Orleans.Streams.IPubSubRendezvousGrain [1746702088 (0x681C8F08)]
+	
+[2017-10-07 12:15:18.206 GMT    14	INFO   	100000	Runtime.Scheduler.WorkerPoolThread/System.5	127.0.0.1:11111]	Starting AsyncAgent Runtime.Scheduler.WorkerPoolThread/System.5 on managed thread 14	
+[2017-10-07 12:15:18.206 GMT    10	INFO   	100000	Runtime.Scheduler.WorkerPoolThread/0	127.0.0.1:11111]	Starting AsyncAgent Runtime.Scheduler.WorkerPoolThread/0 on managed thread 10	
+[2017-10-07 12:15:18.206 GMT    11	INFO   	100000	Runtime.Scheduler.WorkerPoolThread/1	127.0.0.1:11111]	Starting AsyncAgent Runtime.Scheduler.WorkerPoolThread/1 on managed thread 11	
+[2017-10-07 12:15:18.208 GMT    12	INFO   	100000	Runtime.Scheduler.WorkerPoolThread/2	127.0.0.1:11111]	Starting AsyncAgent Runtime.Scheduler.WorkerPoolThread/2 on managed thread 12	
+[2017-10-07 12:15:18.209 GMT    13	INFO   	100000	Runtime.Scheduler.WorkerPoolThread/3	127.0.0.1:11111]	Starting AsyncAgent Runtime.Scheduler.WorkerPoolThread/3 on managed thread 13	
+[2017-10-07 12:15:18.211 GMT    15	INFO   	100000	Runtime.Messaging.IncomingMessageAcceptor	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.IncomingMessageAcceptor on managed thread 15	
+[2017-10-07 12:15:18.211 GMT    16	INFO   	100000	Runtime.Messaging.SiloMessageSender/PingSender	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.SiloMessageSender/PingSender on managed thread 16	
+[2017-10-07 12:15:18.212 GMT    17	INFO   	100000	Runtime.Messaging.SiloMessageSender/SystemSender	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.SiloMessageSender/SystemSender on managed thread 17	
+[2017-10-07 12:15:18.215 GMT    15	INFO   	100328	Runtime.Messaging.IncomingMessageAcceptor	127.0.0.1:11111]	Stopping AsyncAgent Runtime.Messaging.IncomingMessageAcceptor that runs on managed thread 15	
+[2017-10-07 12:15:18.216 GMT    23	INFO   	100000	Runtime.Messaging.IncomingMessageAgent/Ping	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.IncomingMessageAgent/Ping on managed thread 23	
+[2017-10-07 12:15:18.217 GMT    22	INFO   	100000	Runtime.Messaging.IncomingMessageAgent/System	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.IncomingMessageAgent/System on managed thread 22	
+[2017-10-07 12:15:18.218 GMT    24	INFO   	100000	Runtime.Messaging.IncomingMessageAgent/Application	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.IncomingMessageAgent/Application on managed thread 24	
+[2017-10-07 12:15:18.219 GMT     1	INFO   	100000	Orleans.GrainDirectory.LocalGrainDirectory	127.0.0.1:11111]	Start (SeverityLevel=Info)	
+[2017-10-07 12:15:18.219 GMT    20	INFO   	100000	Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1	127.0.0.1:11111]	Starting AsyncAgent Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1 on managed thread 20	
+[2017-10-07 12:15:18.220 GMT    21	INFO   	100000	Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer	127.0.0.1:11111]	Starting AsyncAgent Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer on managed thread 21	
+[2017-10-07 12:15:18.224 GMT    21	INFO   	100328	Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer	127.0.0.1:11111]	Stopping AsyncAgent Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer that runs on managed thread 21	
+[2017-10-07 12:15:18.257 GMT     1	INFO   	100000	ReminderFactory	127.0.0.1:11111]	Creating reminder grain service for type=Orleans.OrleansCodeGenReminderTableGrainReference	
+[2017-10-07 12:15:18.280 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#1: memory=11MB, #activations=0, collector=<#Activations=0, #Buckets=0, buckets=[]>.	
+[2017-10-07 12:15:18.281 GMT    11	INFO   	103102	ProviderLoader/IStorageProvider	127.0.0.1:11111]	Loaded provider of type Orleans.Storage.MemoryStorage Name=MemoryStore	
+[2017-10-07 12:15:18.284 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#1: memory=11MB, #activations=0, collected 0 activations, collector=<#Activations=0, #Buckets=0, buckets=[]>, collection time=00:00:00.0074160.	
+[2017-10-07 12:15:18.289 GMT    11	INFO   	0	Storage.MemoryStorage.1	127.0.0.1:11111]	Init: Name=MemoryStore NumStorageGrains=10	
+[2017-10-07 12:15:18.300 GMT    14	INFO   	100603	MembershipOracle	127.0.0.1:11111]	MembershipOracle starting on host = zed-PC address = S127.0.0.1:11111:245074512 at 2017-10-07 12:15:18.056 GMT, backOffMax = 00:00:20	
+[2017-10-07 12:15:18.305 GMT    14	INFO   	100635	MembershipTableFactory	127.0.0.1:11111]	Creating membership table grain	
+[2017-10-07 12:15:18.340 GMT    10	INFO   	100637	GrainBasedMembershipTable	127.0.0.1:11111]	GrainBasedMembershipTable Activated.	
+[2017-10-07 12:15:18.400 GMT    14	INFO   	100631	MembershipTableFactory	127.0.0.1:11111]	-Connected to membership table provider.	
+[2017-10-07 12:15:18.431 GMT    13	INFO   	100000	GrainBasedMembershipTable	127.0.0.1:11111]	InitializeMembershipTable True.	
+[2017-10-07 12:15:22.775 GMT    11	INFO   	100652	MembershipOracle	127.0.0.1:11111]	-CleanupTable called on silo startup. Membership table 0 silos, 0 are Active, 0 are Dead, Version=<0, 0>. All silos: []	
+[2017-10-07 12:15:22.805 GMT    11	INFO   	100660	MembershipOracle	127.0.0.1:11111]	Starting IAmAliveUpdateTimer.	
+[2017-10-07 12:15:22.814 GMT    11	INFO   	100604	MembershipOracle	127.0.0.1:11111]	-BecomeActive	
+[2017-10-07 12:15:22.819 GMT    11	INFO   	100614	MembershipOracle	127.0.0.1:11111]	About to send pings to 0 nodes in order to validate communication in the Joining state. Pinged nodes = []	
+[2017-10-07 12:15:22.826 GMT    14	INFO   	100634	MembershipOracle	127.0.0.1:11111]	-ReadAll (called from BecomeActive) Membership table 1 silos, 1 are Active, 0 are Dead, Version=<2, 5>. All silos: [SiloAddress=S127.0.0.1:11111:245074512 SiloName=zed-PC Status=Active]	
+[2017-10-07 12:15:22.829 GMT    14	INFO   	100605	MembershipOracle	127.0.0.1:11111]	-Finished BecomeActive.	
+[2017-10-07 12:15:22.836 GMT    14	INFO   	100000	TypeManager	127.0.0.1:11111]	OnRefreshClusterMapTimer: refresh start	
+[2017-10-07 12:15:22.842 GMT     1	INFO   	100702	WindowsPerfCountersStatistics	127.0.0.1:11111]	Starting Windows perf counter stats collection with frequency=00:00:30	
+[2017-10-07 12:15:22.891 GMT     1	INFO   	100714	SiloPerformanceMetrics	127.0.0.1:11111]	Starting Silo Table metrics reporter with reportFrequency=00:00:30	
+[2017-10-07 12:15:22.893 GMT    14	INFO   	100000	DeploymentLoadPublisher	127.0.0.1:11111]	Starting DeploymentLoadPublisher.	
+[2017-10-07 12:15:22.916 GMT    14	INFO   	100000	DeploymentLoadPublisher	127.0.0.1:11111]	Started DeploymentLoadPublisher.	
+[2017-10-07 12:15:22.917 GMT     1	INFO   	100000	Watchdog	127.0.0.1:11111]	Starting Silo Watchdog.	
+[2017-10-07 12:15:22.918 GMT    26	INFO   	100000	Runtime.Watchdog	127.0.0.1:11111]	Starting AsyncAgent Runtime.Watchdog on managed thread 26	
+[2017-10-07 12:15:22.955 GMT    10	INFO   	100000	GrainBasedReminderTable_S127.0.0.1:11111:245074512*grn/FCB3F509/00003039@4e18349c	127.0.0.1:11111]	GrainBasedReminderTable *grn/FCB3F509/00003039 Activated. Full identity: [ActivationAddress: S127.0.0.1:11111:245074512*grn/FCB3F509/00003039@4e18349c, Full GrainId: [GrainId: *grn/FCB3F509/0000000000000000000000000000303903fffffffcb3f509-0xBB9ED002, IdCategory: Grain, BaseTypeCode: -55315191 (xFCB3F509), PrimaryKey: 12345 (x3039), UniformHashCode: 3147747330 (0xBB9ED002)], Full ActivationId: @437b48b2aee94e063fc7bfcc4e18349c0000000000000000]	
+[2017-10-07 12:15:22.959 GMT    10	INFO   	102925	Orleans.Runtime.ReminderService.LocalReminderService	127.0.0.1:11111]	Starting Orleans.Runtime.ReminderService.LocalReminderService grain service on: S127.0.0.1:11111:245074512 x1939F36D, with range 	
+[2017-10-07 12:15:22.983 GMT    18	INFO   	100000	Runtime.Messaging.GatewayAcceptor	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.GatewayAcceptor on managed thread 18	
+[2017-10-07 12:15:22.984 GMT    19	INFO   	100000	Runtime.Messaging.GatewayClientCleanupAgent	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.GatewayClientCleanupAgent on managed thread 19	
+[2017-10-07 12:15:22.984 GMT     1	INFO   	100424	OrleansSiloHost	127.0.0.1:11111]	Silo startup event name: zed-PC	
+[2017-10-07 12:15:22.986 GMT    18	INFO   	100328	Runtime.Messaging.GatewayAcceptor	127.0.0.1:11111]	Stopping AsyncAgent Runtime.Messaging.GatewayAcceptor that runs on managed thread 18	
+[2017-10-07 12:15:22.986 GMT     1	INFO   	100425	OrleansSiloHost	127.0.0.1:11111]	Created and set startup event zed-PC	
+[2017-10-07 12:15:22.987 GMT     1	INFO   	100402	OrleansSiloHost	127.0.0.1:11111]	Silo zed-PC started successfully	
+[2017-10-07 12:15:24.013 GMT    25	INFO   	101301	Orleans.Messaging.Gateway	127.0.0.1:11111]	Recorded opened socket from endpoint 127.0.0.1:19395, client ID *cli/27badfbc.	
+[2017-10-07 12:15:24.084 GMT    29	INFO   	100000	Runtime.Messaging.GatewaySender/GatewaySiloSender_0	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.GatewaySender/GatewaySiloSender_0 on managed thread 29	
+[2017-10-07 12:16:04.756 GMT    28	INFO   	101301	Orleans.Messaging.Gateway	127.0.0.1:11111]	Recorded opened socket from endpoint 127.0.0.1:19510, client ID *cli/e785fa92.	
+[2017-10-07 12:16:04.783 GMT    31	INFO   	100000	Runtime.Messaging.GatewaySender/GatewaySiloSender_1	127.0.0.1:11111]	Starting AsyncAgent Runtime.Messaging.GatewaySender/GatewaySiloSender_1 on managed thread 31	
+[2017-10-07 12:16:18.301 GMT    13	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#2: memory=20MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:59m:41s.699ms->1 items, 2h:0m:41s.699ms->1 items]>.	
+[2017-10-07 12:16:18.304 GMT    13	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#2: memory=20MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:59m:41s.695ms->1 items, 2h:0m:41s.695ms->1 items]>, collection time=00:00:00.0041048.	
+[2017-10-07 12:17:18.314 GMT    12	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#3: memory=28MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:58m:41s.685ms->1 items, 1h:59m:41s.685ms->1 items]>.	
+[2017-10-07 12:17:18.316 GMT    12	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#3: memory=28MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:58m:41s.683ms->1 items, 1h:59m:41s.683ms->1 items]>, collection time=00:00:00.0023118.	
+[2017-10-07 12:17:42.735 GMT    30	INFO   	101302	Orleans.Messaging.Gateway	127.0.0.1:11111]	Recorded closed socket from endpoint 127.0.0.1:19395, client ID *cli/27badfbc.	
+[2017-10-07 12:17:45.669 GMT    30	INFO   	101302	Orleans.Messaging.Gateway	127.0.0.1:11111]	Recorded closed socket from endpoint 127.0.0.1:19510, client ID *cli/e785fa92.	
+[2017-10-07 12:18:18.328 GMT    12	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#4: memory=36MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:57m:41s.671ms->1 items, 1h:58m:41s.671ms->1 items]>.	
+[2017-10-07 12:18:18.332 GMT    12	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#4: memory=36MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:57m:41s.668ms->1 items, 1h:58m:41s.668ms->1 items]>, collection time=00:00:00.0036215.	
+[2017-10-07 12:19:18.341 GMT    11	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#5: memory=44MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:56m:41s.658ms->1 items, 1h:57m:41s.658ms->1 items]>.	
+[2017-10-07 12:19:18.342 GMT    11	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#5: memory=44MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:56m:41s.657ms->1 items, 1h:57m:41s.657ms->1 items]>, collection time=00:00:00.0015004.	
+[2017-10-07 12:19:22.991 GMT    19	INFO   	101303	Orleans.Messaging.Gateway	127.0.0.1:11111]	Dropping client *cli/e785fa92, 00:01:37.3145661 after disconnect with no reconnect	
+[2017-10-07 12:19:22.996 GMT    19	INFO   	101303	Orleans.Messaging.Gateway	127.0.0.1:11111]	Dropping client *cli/27badfbc, 00:01:40.2507340 after disconnect with no reconnect	
+[2017-10-07 12:20:18.355 GMT    12	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#6: memory=11MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:55m:41s.644ms->1 items, 1h:56m:41s.644ms->1 items]>.	
+[2017-10-07 12:20:18.357 GMT    12	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#6: memory=11MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:55m:41s.642ms->1 items, 1h:56m:41s.642ms->1 items]>, collection time=00:00:00.0024859.	
+[2017-10-07 12:20:22.908 GMT     9	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=1, [0.0512:0.1023]=70, [0.1024:0.2047]=95, [0.2048:0.4095]=129, [0.4096:0.8191]=26, [0.8192:1.6383]=17, [1.6384:3.2767]=4, [3.2768:6.5535]=30, [6.5536:13.1071]=1, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=375
+Catalog.Activation.Collection.NumberOfCollections.Current=6
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=89
+Directory.Lookups.Local.Successes.Current=86
+Directory.Lookups.LocalDirectory.Issued.Current=92
+Directory.Lookups.LocalDirectory.Successes.Current=86
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=84
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=84
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=84
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=81
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=84
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=81
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=677
+Messaging.Processing.IMA.Received.Current=761
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=761
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=14.089
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=183.232
+Runtime.GC.GenCollectonCount=gen0=9, gen1=7, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=452.43, gen2=4662.15
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.067
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.047
+Runtime.GC.PromotedMemoryFromGen1Kb=448.867
+Runtime.GC.TotalMemoryKb=13142
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1590
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=0
+	
+[2017-10-07 12:21:18.368 GMT    11	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#7: memory=10MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:54m:41s.631ms->1 items, 1h:55m:41s.631ms->1 items]>.	
+[2017-10-07 12:21:18.370 GMT    11	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#7: memory=10MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:54m:41s.629ms->1 items, 1h:55m:41s.629ms->1 items]>, collection time=00:00:00.0020333.	
+[2017-10-07 12:22:18.381 GMT    12	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#8: memory=18MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:53m:41s.618ms->1 items, 1h:54m:41s.618ms->1 items]>.	
+[2017-10-07 12:22:18.382 GMT    12	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#8: memory=18MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:53m:41s.617ms->1 items, 1h:54m:41s.617ms->1 items]>, collection time=00:00:00.0015895.	
+[2017-10-07 12:23:18.394 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#9: memory=13MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:52m:41s.605ms->1 items, 1h:53m:41s.605ms->1 items]>.	
+[2017-10-07 12:23:18.401 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#9: memory=13MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:52m:41s.598ms->1 items, 1h:53m:41s.598ms->1 items]>, collection time=00:00:00.0068884.	
+[2017-10-07 12:24:18.409 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#10: memory=21MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:51m:41s.590ms->1 items, 1h:52m:41s.590ms->1 items]>.	
+[2017-10-07 12:24:18.411 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#10: memory=21MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:51m:41s.588ms->1 items, 1h:52m:41s.588ms->1 items]>, collection time=00:00:00.0021804.	
+[2017-10-07 12:25:18.423 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#11: memory=16MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:50m:41s.576ms->1 items, 1h:51m:41s.576ms->1 items]>.	
+[2017-10-07 12:25:18.425 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#11: memory=16MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:50m:41s.574ms->1 items, 1h:51m:41s.574ms->1 items]>, collection time=00:00:00.0019121.	
+[2017-10-07 12:25:22.953 GMT     9	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=3, [0.0512:0.1023]=124, [0.1024:0.2047]=195, [0.2048:0.4095]=219, [0.4096:0.8191]=70, [0.8192:1.6383]=56, [1.6384:3.2767]=7, [3.2768:6.5535]=30, [6.5536:13.1071]=1, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=707,      Delta=332
+Catalog.Activation.Collection.NumberOfCollections.Current=11,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=125,      Delta=36
+Directory.Lookups.Local.Successes.Current=122,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=128,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=122,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=120,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=120,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=120,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=117,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=120,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=117,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=1305,      Delta=628
+Messaging.Processing.IMA.Received.Current=1425,      Delta=664
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=1425,      Delta=664
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=12.776
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=12, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=139.55, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.003
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=18380
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1683
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=1,      Delta=1
+	
+[2017-10-07 12:26:18.435 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#12: memory=13MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:49m:41s.564ms->1 items, 1h:50m:41s.564ms->1 items]>.	
+[2017-10-07 12:26:18.438 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#12: memory=13MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:49m:41s.561ms->1 items, 1h:50m:41s.561ms->1 items]>, collection time=00:00:00.0034419.	
+[2017-10-07 12:27:18.450 GMT    13	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#13: memory=21MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:48m:41s.549ms->1 items, 1h:49m:41s.549ms->1 items]>.	
+[2017-10-07 12:27:18.452 GMT    13	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#13: memory=21MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:48m:41s.547ms->1 items, 1h:49m:41s.547ms->1 items]>, collection time=00:00:00.0025190.	
+[2017-10-07 12:28:18.463 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#14: memory=16MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:47m:41s.536ms->1 items, 1h:48m:41s.536ms->1 items]>.	
+[2017-10-07 12:28:18.463 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#14: memory=16MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:47m:41s.536ms->1 items, 1h:48m:41s.536ms->1 items]>, collection time=00:00:00.0007922.	
+[2017-10-07 12:29:18.477 GMT    13	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#15: memory=10MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:46m:41s.522ms->1 items, 1h:47m:41s.522ms->1 items]>.	
+[2017-10-07 12:29:18.480 GMT    13	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#15: memory=10MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:46m:41s.519ms->1 items, 1h:47m:41s.519ms->1 items]>, collection time=00:00:00.0032255.	
+[2017-10-07 12:30:18.491 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#16: memory=18MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:45m:41s.508ms->1 items, 1h:46m:41s.508ms->1 items]>.	
+[2017-10-07 12:30:18.494 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#16: memory=18MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:45m:41s.505ms->1 items, 1h:46m:41s.505ms->1 items]>, collection time=00:00:00.0029675.	
+[2017-10-07 12:30:23.002 GMT     6	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=8, [0.0512:0.1023]=227, [0.1024:0.2047]=281, [0.2048:0.4095]=292, [0.4096:0.8191]=122, [0.8192:1.6383]=66, [1.6384:3.2767]=9, [3.2768:6.5535]=30, [6.5536:13.1071]=2, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=1039,      Delta=332
+Catalog.Activation.Collection.NumberOfCollections.Current=16,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=161,      Delta=36
+Directory.Lookups.Local.Successes.Current=158,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=164,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=158,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=156,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=156,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=156,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=153,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=156,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=153,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=1933,      Delta=628
+Messaging.Processing.IMA.Received.Current=2089,      Delta=664
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=2089,      Delta=664
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=20.198
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=15, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=191.91, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.009
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=20346
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1551
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=3,      Delta=1
+	
+[2017-10-07 12:31:18.503 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#17: memory=15MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:44m:41s.496ms->1 items, 1h:45m:41s.496ms->1 items]>.	
+[2017-10-07 12:31:18.504 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#17: memory=15MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:44m:41s.495ms->1 items, 1h:45m:41s.495ms->1 items]>, collection time=00:00:00.0011820.	
+[2017-10-07 12:32:18.518 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#18: memory=23MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:43m:41s.481ms->1 items, 1h:44m:41s.481ms->1 items]>.	
+[2017-10-07 12:32:18.520 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#18: memory=23MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:43m:41s.479ms->1 items, 1h:44m:41s.479ms->1 items]>, collection time=00:00:00.0018960.	
+[2017-10-07 12:33:18.531 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#19: memory=17MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:42m:41s.468ms->1 items, 1h:43m:41s.468ms->1 items]>.	
+[2017-10-07 12:33:18.532 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#19: memory=17MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:42m:41s.467ms->1 items, 1h:43m:41s.467ms->1 items]>, collection time=00:00:00.0010680.	
+[2017-10-07 12:34:18.545 GMT    11	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#20: memory=12MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:41m:41s.454ms->1 items, 1h:42m:41s.454ms->1 items]>.	
+[2017-10-07 12:34:18.547 GMT    11	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#20: memory=12MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:41m:41s.452ms->1 items, 1h:42m:41s.452ms->1 items]>, collection time=00:00:00.0024896.	
+[2017-10-07 12:35:18.558 GMT    13	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#21: memory=20MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:40m:41s.441ms->1 items, 1h:41m:41s.441ms->1 items]>.	
+[2017-10-07 12:35:18.559 GMT    13	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#21: memory=20MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:40m:41s.440ms->1 items, 1h:41m:41s.440ms->1 items]>, collection time=00:00:00.0012223.	
+[2017-10-07 12:35:23.043 GMT     5	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=11, [0.0512:0.1023]=300, [0.1024:0.2047]=397, [0.2048:0.4095]=364, [0.4096:0.8191]=176, [0.8192:1.6383]=77, [1.6384:3.2767]=11, [3.2768:6.5535]=31, [6.5536:13.1071]=2, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=1371,      Delta=332
+Catalog.Activation.Collection.NumberOfCollections.Current=21,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=197,      Delta=36
+Directory.Lookups.Local.Successes.Current=194,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=200,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=194,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=192,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=192,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=192,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=189,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=192,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=189,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=2561,      Delta=628
+Messaging.Processing.IMA.Received.Current=2753,      Delta=664
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=2753,      Delta=664
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=29.536
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=18, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=280.41, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.001
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=10462
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1018
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=4,      Delta=1
+	
+[2017-10-07 12:36:18.572 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#22: memory=18MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:39m:41s.427ms->1 items, 1h:40m:41s.427ms->1 items]>.	
+[2017-10-07 12:36:18.575 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#22: memory=18MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:39m:41s.424ms->1 items, 1h:40m:41s.424ms->1 items]>, collection time=00:00:00.0034542.	
+[2017-10-07 12:37:18.585 GMT    13	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#23: memory=12MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:38m:41s.414ms->1 items, 1h:39m:41s.414ms->1 items]>.	
+[2017-10-07 12:37:18.587 GMT    13	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#23: memory=12MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:38m:41s.412ms->1 items, 1h:39m:41s.412ms->1 items]>, collection time=00:00:00.0026958.	
+[2017-10-07 12:38:18.599 GMT    11	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#24: memory=10MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:37m:41s.400ms->1 items, 1h:38m:41s.400ms->1 items]>.	
+[2017-10-07 12:38:18.602 GMT    11	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#24: memory=10MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:37m:41s.397ms->1 items, 1h:38m:41s.397ms->1 items]>, collection time=00:00:00.0031436.	
+[2017-10-07 12:39:18.612 GMT    12	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#25: memory=18MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:36m:41s.387ms->1 items, 1h:37m:41s.387ms->1 items]>.	
+[2017-10-07 12:39:18.613 GMT    12	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#25: memory=18MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:36m:41s.386ms->1 items, 1h:37m:41s.386ms->1 items]>, collection time=00:00:00.0015912.	
+[2017-10-07 12:40:18.625 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#26: memory=16MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:35m:41s.374ms->1 items, 1h:36m:41s.374ms->1 items]>.	
+[2017-10-07 12:40:18.626 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#26: memory=16MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:35m:41s.373ms->1 items, 1h:36m:41s.373ms->1 items]>, collection time=00:00:00.0012834.	
+[2017-10-07 12:40:23.073 GMT     8	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=14, [0.0512:0.1023]=382, [0.1024:0.2047]=492, [0.2048:0.4095]=429, [0.4096:0.8191]=216, [0.8192:1.6383]=114, [1.6384:3.2767]=19, [3.2768:6.5535]=32, [6.5536:13.1071]=3, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=1703,      Delta=332
+Catalog.Activation.Collection.NumberOfCollections.Current=26,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=233,      Delta=36
+Directory.Lookups.Local.Successes.Current=230,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=236,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=230,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=228,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=228,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=228,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=225,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=228,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=225,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=3189,      Delta=628
+Messaging.Processing.IMA.Received.Current=3417,      Delta=664
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=3417,      Delta=664
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=14.723
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=22, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=411.11, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.001
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=18149
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1272
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=5,      Delta=1
+	
+[2017-10-07 12:41:18.640 GMT    13	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#27: memory=13MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:34m:41s.359ms->1 items, 1h:35m:41s.359ms->1 items]>.	
+[2017-10-07 12:41:18.641 GMT    13	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#27: memory=13MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:34m:41s.358ms->1 items, 1h:35m:41s.358ms->1 items]>, collection time=00:00:00.0010308.	
+[2017-10-07 12:42:18.652 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#28: memory=21MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:33m:41s.347ms->1 items, 1h:34m:41s.347ms->1 items]>.	
+[2017-10-07 12:42:18.653 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#28: memory=21MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:33m:41s.346ms->1 items, 1h:34m:41s.346ms->1 items]>, collection time=00:00:00.0009253.	
+[2017-10-07 12:43:18.667 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#29: memory=16MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:32m:41s.332ms->1 items, 1h:33m:41s.332ms->1 items]>.	
+[2017-10-07 12:43:18.668 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#29: memory=16MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:32m:41s.331ms->1 items, 1h:33m:41s.331ms->1 items]>, collection time=00:00:00.0011052.	
+[2017-10-07 12:44:18.680 GMT    11	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#30: memory=11MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:31m:41s.319ms->1 items, 1h:32m:41s.319ms->1 items]>.	
+[2017-10-07 12:44:18.683 GMT    11	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#30: memory=11MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:31m:41s.316ms->1 items, 1h:32m:41s.316ms->1 items]>, collection time=00:00:00.0031863.	
+[2017-10-07 12:45:18.695 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#31: memory=19MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:30m:41s.304ms->1 items, 1h:31m:41s.304ms->1 items]>.	
+[2017-10-07 12:45:18.698 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#31: memory=19MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:30m:41s.301ms->1 items, 1h:31m:41s.301ms->1 items]>, collection time=00:00:00.0031293.	
+[2017-10-07 12:45:23.100 GMT     7	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=21, [0.0512:0.1023]=478, [0.1024:0.2047]=586, [0.2048:0.4095]=518, [0.4096:0.8191]=250, [0.8192:1.6383]=123, [1.6384:3.2767]=22, [3.2768:6.5535]=32, [6.5536:13.1071]=3, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=2035,      Delta=332
+Catalog.Activation.Collection.NumberOfCollections.Current=31,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=269,      Delta=36
+Directory.Lookups.Local.Successes.Current=266,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=272,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=266,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=264,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=264,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=264,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=261,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=264,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=261,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=3817,      Delta=628
+Messaging.Processing.IMA.Received.Current=4081,      Delta=664
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=4081,      Delta=664
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=13.391
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=25, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=492.36, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.001
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=10599
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1203
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=6,      Delta=1
+	
+[2017-10-07 12:46:18.708 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#32: memory=18MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:29m:41s.291ms->1 items, 1h:30m:41s.291ms->1 items]>.	
+[2017-10-07 12:46:18.710 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#32: memory=18MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:29m:41s.289ms->1 items, 1h:30m:41s.289ms->1 items]>, collection time=00:00:00.0023746.	
+[2017-10-07 12:47:18.720 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#33: memory=12MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:28m:41s.279ms->1 items, 1h:29m:41s.279ms->1 items]>.	
+[2017-10-07 12:47:18.723 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#33: memory=12MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:28m:41s.276ms->1 items, 1h:29m:41s.276ms->1 items]>, collection time=00:00:00.0030446.	
+[2017-10-07 12:48:18.734 GMT    11	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#34: memory=20MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:27m:41s.265ms->1 items, 1h:28m:41s.265ms->1 items]>.	
+[2017-10-07 12:48:18.737 GMT    11	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#34: memory=20MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:27m:41s.262ms->1 items, 1h:28m:41s.262ms->1 items]>, collection time=00:00:00.0031259.	
+[2017-10-07 12:49:18.747 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#35: memory=16MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:26m:41s.252ms->1 items, 1h:27m:41s.252ms->1 items]>.	
+[2017-10-07 12:49:18.749 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#35: memory=16MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:26m:41s.250ms->1 items, 1h:27m:41s.250ms->1 items]>, collection time=00:00:00.0020408.	
+[2017-10-07 12:50:18.762 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#36: memory=12MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:25m:41s.237ms->1 items, 1h:26m:41s.237ms->1 items]>.	
+[2017-10-07 12:50:18.764 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#36: memory=12MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:25m:41s.235ms->1 items, 1h:26m:41s.235ms->1 items]>, collection time=00:00:00.0022575.	
+[2017-10-07 12:50:23.132 GMT     8	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=22, [0.0512:0.1023]=569, [0.1024:0.2047]=709, [0.2048:0.4095]=609, [0.4096:0.8191]=270, [0.8192:1.6383]=125, [1.6384:3.2767]=25, [3.2768:6.5535]=32, [6.5536:13.1071]=3, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=2366,      Delta=331
+Catalog.Activation.Collection.NumberOfCollections.Current=36,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=305,      Delta=36
+Directory.Lookups.Local.Successes.Current=302,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=308,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=302,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=300,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=300,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=300,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=297,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=300,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=297,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=4443,      Delta=626
+Messaging.Processing.IMA.Received.Current=4743,      Delta=662
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=4743,      Delta=662
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=24.505
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=441.832
+Runtime.GC.GenCollectonCount=gen0=29, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=565.63, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.001
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=14224
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1186
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=7,      Delta=1
+	
+[2017-10-07 12:51:18.775 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#37: memory=21MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:24m:41s.224ms->1 items, 1h:25m:41s.224ms->1 items]>.	
+[2017-10-07 12:51:18.776 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#37: memory=21MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:24m:41s.223ms->1 items, 1h:25m:41s.223ms->1 items]>, collection time=00:00:00.0012212.	
+[2017-10-07 12:52:18.789 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#38: memory=17MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:23m:41s.210ms->1 items, 1h:24m:41s.210ms->1 items]>.	
+[2017-10-07 12:52:18.792 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#38: memory=17MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:23m:41s.207ms->1 items, 1h:24m:41s.207ms->1 items]>, collection time=00:00:00.0032068.	
+[2017-10-07 12:53:18.803 GMT    12	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#39: memory=13MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:22m:41s.196ms->1 items, 1h:23m:41s.196ms->1 items]>.	
+[2017-10-07 12:53:18.806 GMT    12	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#39: memory=13MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:22m:41s.193ms->1 items, 1h:23m:41s.193ms->1 items]>, collection time=00:00:00.0036007.	
+[2017-10-07 12:54:18.816 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#40: memory=12MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:21m:41s.183ms->1 items, 1h:22m:41s.183ms->1 items]>.	
+[2017-10-07 12:54:18.817 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#40: memory=12MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:21m:41s.182ms->1 items, 1h:22m:41s.182ms->1 items]>, collection time=00:00:00.0016032.	
+[2017-10-07 12:55:18.830 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#41: memory=20MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:20m:41s.169ms->1 items, 1h:21m:41s.169ms->1 items]>.	
+[2017-10-07 12:55:18.831 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#41: memory=20MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:20m:41s.168ms->1 items, 1h:21m:41s.168ms->1 items]>, collection time=00:00:00.0013346.	
+[2017-10-07 12:55:23.150 GMT     8	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=25, [0.0512:0.1023]=681, [0.1024:0.2047]=793, [0.2048:0.4095]=707, [0.4096:0.8191]=299, [0.8192:1.6383]=129, [1.6384:3.2767]=27, [3.2768:6.5535]=32, [6.5536:13.1071]=3, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=2698,      Delta=332
+Catalog.Activation.Collection.NumberOfCollections.Current=41,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=341,      Delta=36
+Directory.Lookups.Local.Successes.Current=338,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=344,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=338,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=336,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=336,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=336,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=333,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=336,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=333,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=5071,      Delta=628
+Messaging.Processing.IMA.Received.Current=5407,      Delta=664
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=5407,      Delta=664
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=22.277
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=32, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=686.59, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.001
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=10794
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1174
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=8,      Delta=1
+	
+[2017-10-07 12:56:18.844 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#42: memory=18MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:19m:41s.155ms->1 items, 1h:20m:41s.155ms->1 items]>.	
+[2017-10-07 12:56:18.845 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#42: memory=18MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:19m:41s.154ms->1 items, 1h:20m:41s.154ms->1 items]>, collection time=00:00:00.0015346.	
+[2017-10-07 12:57:18.858 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#43: memory=13MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:18m:41s.141ms->1 items, 1h:19m:41s.141ms->1 items]>.	
+[2017-10-07 12:57:18.861 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#43: memory=13MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:18m:41s.138ms->1 items, 1h:19m:41s.138ms->1 items]>, collection time=00:00:00.0029808.	
+[2017-10-07 12:58:18.870 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#44: memory=11MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:17m:41s.129ms->1 items, 1h:18m:41s.129ms->1 items]>.	
+[2017-10-07 12:58:18.873 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#44: memory=11MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:17m:41s.126ms->1 items, 1h:18m:41s.126ms->1 items]>, collection time=00:00:00.0032050.	
+[2017-10-07 12:59:18.884 GMT    11	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#45: memory=19MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:16m:41s.115ms->1 items, 1h:17m:41s.115ms->1 items]>.	
+[2017-10-07 12:59:18.888 GMT    11	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#45: memory=19MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:16m:41s.111ms->1 items, 1h:17m:41s.111ms->1 items]>, collection time=00:00:00.0039758.	
+[2017-10-07 13:00:18.897 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#46: memory=16MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:15m:41s.102ms->1 items, 1h:16m:41s.102ms->1 items]>.	
+[2017-10-07 13:00:18.900 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#46: memory=16MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:15m:41s.99ms->1 items, 1h:16m:41s.99ms->1 items]>, collection time=00:00:00.0031556.	
+[2017-10-07 13:00:23.165 GMT     7	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=31, [0.0512:0.1023]=795, [0.1024:0.2047]=882, [0.2048:0.4095]=780, [0.4096:0.8191]=343, [0.8192:1.6383]=135, [1.6384:3.2767]=27, [3.2768:6.5535]=32, [6.5536:13.1071]=3, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=3030,      Delta=332
+Catalog.Activation.Collection.NumberOfCollections.Current=46,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=377,      Delta=36
+Directory.Lookups.Local.Successes.Current=374,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=380,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=374,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=372,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=372,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=372,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=369,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=372,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=369,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=5699,      Delta=628
+Messaging.Processing.IMA.Received.Current=6071,      Delta=664
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=6071,      Delta=664
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=23.540
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=36, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=756.43, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.002
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=18417
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=1023
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=9,      Delta=1
+	
+[2017-10-07 13:01:18.911 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#47: memory=15MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:14m:41s.88ms->1 items, 1h:15m:41s.88ms->1 items]>.	
+[2017-10-07 13:01:18.915 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#47: memory=15MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:14m:41s.84ms->1 items, 1h:15m:41s.84ms->1 items]>, collection time=00:00:00.0035126.	
+[2017-10-07 13:02:18.925 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#48: memory=13MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:13m:41s.74ms->1 items, 1h:14m:41s.74ms->1 items]>.	
+[2017-10-07 13:02:18.929 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#48: memory=13MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:13m:41s.70ms->1 items, 1h:14m:41s.70ms->1 items]>, collection time=00:00:00.0043441.	
+[2017-10-07 13:03:18.938 GMT    10	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#49: memory=21MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:12m:41s.61ms->1 items, 1h:13m:41s.61ms->1 items]>.	
+[2017-10-07 13:03:18.940 GMT    10	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#49: memory=21MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:12m:41s.59ms->1 items, 1h:13m:41s.59ms->1 items]>, collection time=00:00:00.0020797.	
+[2017-10-07 13:04:18.952 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#50: memory=15MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:11m:41s.47ms->1 items, 1h:12m:41s.47ms->1 items]>.	
+[2017-10-07 13:04:18.953 GMT    14	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#50: memory=15MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:11m:41s.46ms->1 items, 1h:12m:41s.46ms->1 items]>, collection time=00:00:00.0013393.	
+[2017-10-07 13:05:18.965 GMT    11	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#51: memory=11MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:10m:41s.34ms->1 items, 1h:11m:41s.34ms->1 items]>.	
+[2017-10-07 13:05:18.967 GMT    11	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#51: memory=11MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:10m:41s.32ms->1 items, 1h:11m:41s.32ms->1 items]>, collection time=00:00:00.0020073.	
+[2017-10-07 13:05:23.186 GMT     7	INFO   	100704	SiloLogStatistics	127.0.0.1:11111]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=0.000
+App.Requests.LatencyHistogram.Millis=[0.0256:0.0511]=34, [0.0512:0.1023]=888, [0.1024:0.2047]=1002, [0.2048:0.4095]=829, [0.4096:0.8191]=377, [0.8192:1.6383]=165, [1.6384:3.2767]=28, [3.2768:6.5535]=34, [6.5536:13.1071]=3, [26.2144:52.4287]=2, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=3362,      Delta=332
+Catalog.Activation.Collection.NumberOfCollections.Current=51,      Delta=5
+Catalog.Activation.Created.Current=4
+Catalog.Activation.CurrentCount=4
+Catalog.Activation.Destroyed.Current=0
+Catalog.Activation.FailedToActivate.Current=0
+ConsistentRing.AverageRangePercentage=100.000
+ConsistentRing.MyRange.RingDistance=x100000000
+ConsistentRing.MyRange.RingPercentage=100.000
+ConsistentRing.Ring=[S127.0.0.1:11111:245074512 -> <MultiRange: Size=x100000000, %Ring=100.000%>]
+ConsistentRing.RingSize=1
+Directory.CacheSize=0
+Directory.Lookups.Cache.HitRatio=0, Delta=0
+Directory.Lookups.Cache.Issued.Current=0
+Directory.Lookups.Cache.Successes.Current=0
+Directory.Lookups.Full.Issued.Current=3
+Directory.Lookups.Local.Issued.Current=413,      Delta=36
+Directory.Lookups.Local.Successes.Current=410,      Delta=36
+Directory.Lookups.LocalDirectory.Issued.Current=416,      Delta=36
+Directory.Lookups.LocalDirectory.Successes.Current=410,      Delta=36
+Directory.Lookups.Remote.Received.Current=0
+Directory.Lookups.Remote.Sent.Current=0
+Directory.PartitionSize=4
+Directory.Registrations.Issued.Current=4
+Directory.Registrations.Local.Current=4
+Directory.Registrations.Remote.Received.Current=0
+Directory.Registrations.Remote.Sent.Current=0
+Directory.Registrations.SingleAct.Issued.Current=4
+Directory.Registrations.SingleAct.Local.Current=4
+Directory.Registrations.SingleAct.Remote.Received.Current=0
+Directory.Registrations.SingleAct.Remote.Sent.Current=0
+Directory.Ring=[S127.0.0.1:11111:245074512/1939F36D]
+Directory.Ring.MyPortion.AverageRingPercentage=100.000
+Directory.Ring.MyPortion.RingDistance=0
+Directory.Ring.MyPortion.RingPercentage=0.000
+Directory.Ring.MyPredecessors=[]
+Directory.Ring.MySuccessors=[]
+Directory.Ring.RingSize=1
+Directory.UnRegistrations.Issued.Current=2
+Directory.UnRegistrations.Local.Current=2
+Directory.UnRegistrations.Remote.Received.Current=0
+Directory.UnRegistrations.Remote.Sent.Current=0
+Directory.UnRegistrationsMany.Issued.Current=0
+Directory.UnRegistrationsMany.Remote.Received.Current=0
+Directory.UnRegistrationsMany.Remote.Sent.Current=0
+Directory.Validations.Cache.Received.Current=0
+Directory.Validations.Cache.Sent.Current=0
+Dispatcher.NewPlacement.Current=3
+Gateway.ConnectedClients.Current=0
+Gateway.LoadShedding.Current=0
+Gateway.Received.Current=11
+Gateway.Sent.Current=16
+Grain.InterfacesLib.HelloGrain.Current=2
+Grain.Orleans.Runtime.MembershipService.GrainBasedMembershipTable.Current=1
+Grain.Orleans.Runtime.ReminderService.GrainBasedReminderTable.Current=1
+Membership.ActiveCluster=[S127.0.0.1:11111:245074512]
+Membership.ActiveClusterSize=1
+MessageCenter.ReceiveQueueLength=0
+MessageCenter.SendQueueLength=0
+Messaging.Acceptor.AllocatedSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedInSocketEventArgs.Current=2
+Messaging.Acceptor.CheckedOutSocketEventArgs.Current=2
+Messaging.Acceptor.InUseSocketEventArgs=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Processing.ActivationData.All=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.Errors.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Request.Current=408,      Delta=36
+Messaging.Processing.Dispatcher.Processed.Ok.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Request.Current=0
+Messaging.Processing.Dispatcher.Processed.ReRoute.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Processed.Total.Current=408,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.OneWay.Current=0
+Messaging.Processing.Dispatcher.Received.Direction.Request.Current=408,      Delta=36
+Messaging.Processing.Dispatcher.Received.Direction.Response.Current=0
+Messaging.Processing.Dispatcher.Received.OnActivationContext.Current=405,      Delta=36
+Messaging.Processing.Dispatcher.Received.OnNullContext.Current=3
+Messaging.Processing.Dispatcher.Received.Total.Current=408,      Delta=36
+Messaging.Processing.IGC.Forwarded.Current=0
+Messaging.Processing.IGC.ReRoute.Current=0
+Messaging.Processing.IGC.Resent.Current=0
+Messaging.Processing.IMA.Enqueued.ToActivationContex.Current=405,      Delta=36
+Messaging.Processing.IMA.Enqueued.ToNullContex.Current=3
+Messaging.Processing.IMA.Enqueued.ToSystemTargetContex.Current=6327,      Delta=628
+Messaging.Processing.IMA.Received.Current=6735,      Delta=664
+Messaging.Received.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Received.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Received.Bytes.Header.Current=2164
+Messaging.Received.Bytes.Total.Current=2622
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=11
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.From.Null.Current=11
+Messaging.Received.Messages.Total.Current=11
+Messaging.Received.MessageSizeHistogram.Bytes=[128:255]=7, [256:511]=4, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=11
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.GatewayToClient=0.000
+Messaging.Sent.BatchSize.PerSocketDirection.SiloToSilo=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.GatewayToClient=
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.SiloToSilo=
+Messaging.Sent.Bytes.Header.Current=3435
+Messaging.Sent.Bytes.Total.Current=8560
+Messaging.Sent.Direction.OneWay.Current=5
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=11
+Messaging.Sent.LocalMessages.Current=6735,      Delta=664
+Messaging.Sent.Messages.To.Null.Current=16
+Messaging.Sent.Messages.Total.Current=16
+Messaging.Sent.MessageSizeHistogram.Bytes=[128:255]=12, [256:511]=2, [2048:4095]=2, 
+Networking.Sockets.GatewayToClient.Duplex.Closed.Current=2
+Networking.Sockets.GatewayToClient.Duplex.Opened.Current=2
+Networking.Sockets.Silo.Receiving.Closed.Current=0
+Networking.Sockets.Silo.Receiving.Opened.Current=0
+Networking.Sockets.Silo.Sending.Closed.Current=0
+Networking.Sockets.Silo.Sending.Opened.Current=0
+Queues.QueueSize.Instantaneous.Scheduler.LevelOne=0
+Reminders.AverageTardiness.Seconds=0 Secs
+Reminders.NumberOfActiveReminders=0
+Reminders.TicksDelivered.Current=0
+Runtime.CpuUsage=16.801
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=492.857
+Runtime.GC.GenCollectonCount=gen0=40, gen1=8, gen2=3
+Runtime.GC.GenSizesKb=gen0=15360.00, gen1=820.97, gen2=5152.26
+Runtime.GC.LargeObjectHeapSizeKb=6742.648
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.001
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.000
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=12578
+Runtime.IsOverloaded=False
+Runtime.Memory.AvailableMemoryMb=929
+Runtime.Memory.TotalPhysicalMemoryMb=10240
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.AdaptiveDirectoryCacheMaintainer`1.Current=1
+Runtime.Threads.AsynchAgent.Runtime.GrainDirectory.GlobalSingleInstanceActivationMaintainer.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewayClientCleanupAgent.Current=1
+Runtime.Threads.AsynchAgent.Runtime.Messaging.GatewaySender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAcceptor.Current=0
+Runtime.Threads.AsynchAgent.Runtime.Messaging.IncomingMessageAgent.Current=3
+Runtime.Threads.AsynchAgent.Runtime.Messaging.SiloMessageSender.Current=2
+Runtime.Threads.AsynchAgent.Runtime.Scheduler.WorkerPoolThread.Current=5
+Runtime.Threads.AsynchAgent.Runtime.Watchdog.Current=1
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=18
+Scheduler.NumLongQueueWaitTimes.Current=0
+Scheduler.NumLongRunningTurns.Current=0
+Scheduler.WorkItemGroupCount=17
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=186
+Serialization.BufferPool.CheckedInBuffers.Current=312
+Serialization.BufferPool.CheckedOutBuffers.Current=376
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=64
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=64
+Silo.StartTime=2017-10-07 12:15:12.030 GMT
+Storage.Activate.Errors.Current=0
+Storage.Activate.Total.Current=0
+Storage.Clear.Errors.Current=0
+Storage.Clear.Latency=0 Secs
+Storage.Clear.Total.Current=0
+Storage.Read.Errors.Current=0
+Storage.Read.Latency=0 Secs
+Storage.Read.Total.Current=0
+Storage.Write.Errors.Current=0
+Storage.Write.Latency=0 Secs
+Storage.Write.Total.Current=0
+SystemTarget..Current=3
+Watchdog.NumHealthChecks.Current=10,      Delta=1
+	
+[2017-10-07 13:06:18.979 GMT    12	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#52: memory=20MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:9m:41s.20ms->1 items, 1h:10m:41s.20ms->1 items]>.	
+[2017-10-07 13:06:18.980 GMT    12	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#52: memory=20MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:9m:41s.19ms->1 items, 1h:10m:41s.19ms->1 items]>, collection time=00:00:00.0013503.	
+[2017-10-07 13:07:18.998 GMT    12	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#53: memory=10MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:8m:41s.1ms->1 items, 1h:9m:41s.1ms->1 items]>.	
+[2017-10-07 13:07:19.043 GMT    12	INFO   	100508	Catalog	127.0.0.1:11111]	After collection#53: memory=10MB, #activations=4, collected 0 activations, collector=<#Activations=2, #Buckets=2, buckets=[1h:8m:40s.956ms->1 items, 1h:9m:40s.956ms->1 items]>, collection time=00:00:00.0445266.	
+[2017-10-07 13:08:19.053 GMT    14	INFO   	100507	Catalog	127.0.0.1:11111]	Before collection#54: memory=17MB, #activations=4, collector=<#Activations=2, #Buckets=2, buckets=[1h:7m:40s.946ms->1 items, 1h:8m:40s.946ms->1 items]>.	

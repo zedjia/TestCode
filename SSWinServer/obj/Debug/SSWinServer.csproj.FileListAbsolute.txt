@@ -1,0 +1,9 @@
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\bin\Debug\SSWinServer.exe.config
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\bin\Debug\SSWinServer.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\bin\Debug\SSWinServer.pdb
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\obj\Debug\SSWinServer.csprojResolveAssemblyReference.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\obj\Debug\SSWinServer.Properties.Resources.resources
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\obj\Debug\SSWinServer.csproj.GenerateResource.Cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\obj\Debug\SSWinServer.csproj.CoreCompileInputs.cache
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\obj\Debug\SSWinServer.exe
+C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\SSWinServer\obj\Debug\SSWinServer.pdb
