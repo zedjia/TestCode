@@ -69,3 +69,11 @@ C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\b
 C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\GrainImps.dll
 C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\GrainImps.pdb
 C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\GrainImps.dll.config
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\FastSocket.Client.dll
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Util.Json.dll
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\FastSocket.SocketBase.dll
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\FastSocket.Client.pdb
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\FastSocket.Client.xml
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\Util.Json.xml
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\FastSocket.SocketBase.pdb
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WindowsFormsClient\bin\Debug\FastSocket.SocketBase.xml

@@ -51,6 +51,7 @@
     <Compile Include="ClientForm.Designer.cs">
       <DependentUpon>ClientForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="CommonSocketClient.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ClientForm.resx">
@@ -77,6 +78,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\..\Dev\WorkSpace\VoiceIntercom\Code\openSource\SuperSocket%281.6.6%29.Source\SocketBase\SuperSocket.SocketBase.Net45.csproj">
+      <Project>{40b77789-ea11-4c05-8f52-86711d7bcaaf}</Project>
+      <Name>SuperSocket.SocketBase.Net45</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\Dev\WorkSpace\VoiceIntercom\Code\openSource\SuperSocket.ClientEngine-master\SuperSocket.ClientEngine.Net45.csproj">
+      <Project>{8bbfbe4a-b91a-4dcc-92d5-fb0436e2544f}</Project>
+      <Name>SuperSocket.ClientEngine.Net45</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\Dev\WorkSpace\VoiceIntercom\Code\openSource\SuperSocket.ProtoBase-master\src\SuperSocket.ProtoBase.Net45.csproj">
+      <Project>{092dfe24-997a-41e3-9602-b5d52d3749dd}</Project>
+      <Name>SuperSocket.ProtoBase.Net45</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\Source\Repos\CommonLibs\Z.Lib\Z.Lib.csproj">
+      <Project>{7cd2b0a7-e349-4699-bc6d-477a225222bd}</Project>
+      <Name>Z.Lib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

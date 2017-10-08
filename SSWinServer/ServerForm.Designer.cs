@@ -28,31 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ucLogMessageBox1 = new Z.Lib.Controls.ucLogMessageBox();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.toolStripStatusLabel_ServiceStatus = new System.Windows.Forms.ToolStripStatusLabel();
+            this.ucLogMessageBox1 = new Z.Lib.Controls.ucLogMessageBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.groupBox1.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // ucLogMessageBox1
-            // 
-            this.ucLogMessageBox1.DetectUrls = false;
-            this.ucLogMessageBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ucLogMessageBox1.ImeMode = System.Windows.Forms.ImeMode.Off;
-            this.ucLogMessageBox1.Location = new System.Drawing.Point(3, 3);
-            this.ucLogMessageBox1.Name = "ucLogMessageBox1";
-            this.ucLogMessageBox1.ReadOnly = true;
-            this.ucLogMessageBox1.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical;
-            this.ucLogMessageBox1.ShortcutsEnabled = false;
-            this.ucLogMessageBox1.Size = new System.Drawing.Size(1050, 496);
-            this.ucLogMessageBox1.TabIndex = 0;
-            this.ucLogMessageBox1.Text = "";
             // 
             // tabControl1
             // 
@@ -73,7 +62,7 @@
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(1056, 502);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "tabPage1";
+            this.tabPage1.Text = "消息日志";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // tabPage2
@@ -81,9 +70,9 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(852, 317);
+            this.tabPage2.Size = new System.Drawing.Size(1056, 502);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "tabPage2";
+            this.tabPage2.Text = "连接用户";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // textBox1
@@ -91,13 +80,13 @@
             this.textBox1.ForeColor = System.Drawing.Color.Black;
             this.textBox1.Location = new System.Drawing.Point(22, 37);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(124, 21);
+            this.textBox1.Size = new System.Drawing.Size(285, 21);
             this.textBox1.TabIndex = 1;
             // 
             // button1
             // 
             this.button1.ForeColor = System.Drawing.Color.Black;
-            this.button1.Location = new System.Drawing.Point(152, 35);
+            this.button1.Location = new System.Drawing.Point(313, 37);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -118,11 +107,42 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "操作界面";
             // 
+            // statusStrip1
+            // 
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripStatusLabel_ServiceStatus});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 640);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(1064, 22);
+            this.statusStrip1.TabIndex = 2;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // toolStripStatusLabel_ServiceStatus
+            // 
+            this.toolStripStatusLabel_ServiceStatus.Name = "toolStripStatusLabel_ServiceStatus";
+            this.toolStripStatusLabel_ServiceStatus.Size = new System.Drawing.Size(68, 17);
+            this.toolStripStatusLabel_ServiceStatus.Text = "服务未启动";
+            // 
+            // ucLogMessageBox1
+            // 
+            this.ucLogMessageBox1.DetectUrls = false;
+            this.ucLogMessageBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.ucLogMessageBox1.ImeMode = System.Windows.Forms.ImeMode.Off;
+            this.ucLogMessageBox1.Location = new System.Drawing.Point(3, 3);
+            this.ucLogMessageBox1.Name = "ucLogMessageBox1";
+            this.ucLogMessageBox1.ReadOnly = true;
+            this.ucLogMessageBox1.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical;
+            this.ucLogMessageBox1.ShortcutsEnabled = false;
+            this.ucLogMessageBox1.Size = new System.Drawing.Size(1050, 496);
+            this.ucLogMessageBox1.TabIndex = 0;
+            this.ucLogMessageBox1.Text = "";
+            // 
             // ServerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1064, 662);
+            this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.groupBox1);
             this.Name = "ServerForm";
@@ -131,7 +151,10 @@
             this.tabPage1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -144,6 +167,8 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.StatusStrip statusStrip1;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel_ServiceStatus;
     }
 }
 

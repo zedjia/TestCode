@@ -338,3 +338,11 @@ C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\D
 C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.csproj.CoreCompileInputs.cache
 C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.exe
 C:\Users\zed\Documents\Visual Studio 2017\Projects\TestCode\WinFormsServer\obj\Debug\WinFormsServer.pdb
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\FastSocket.Client.dll
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Util.Json.dll
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\FastSocket.SocketBase.dll
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\FastSocket.Client.pdb
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\FastSocket.Client.xml
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\Util.Json.xml
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\FastSocket.SocketBase.pdb
+C:\Users\zed\Documents\visual studio 2017\Projects\TestCode\WinFormsServer\bin\Debug\FastSocket.SocketBase.xml
